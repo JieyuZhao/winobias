@@ -1,0 +1,14 @@
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type1/stereotype/ wino_predictions/final/test_type1/stereotype/ final
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type1/not_stereotype/ wino_predictions/final/test_type1/not_stereotype/ final
+
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type2/stereotype/ wino_predictions/final/test_type2/stereotype/ final
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type2/not_stereotype/ wino_predictions/final/test_type2/not_stereotype/ final
+
+
+---change avg.gender.data
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type1/stereotype/ wino_predictions/anon_union_avg.gender/test_type1/stereotype/ anon.union_avg.gender_final
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type1/not_stereotype/ wino_predictions/anon_union_avg.gender/test_type1/not_stereotype/ anon.union_avg.gender_final
+
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type2/stereotype/ wino_predictions/anon_union_avg.gender/test_type2/stereotype/ anon.union_avg.gender_final
+python ind_predictions.py ../data/winobias_splits/wino_berkeley/test_type2/not_stereotype/ wino_predictions/anon_union_avg.gender/test_type2/not_stereotype/ anon.union_avg.gender_final
+

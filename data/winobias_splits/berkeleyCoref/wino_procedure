@@ -1,0 +1,32 @@
+python2 toSentence.py stereotyped_type1.txt.test wino_sentences/test_type1/stereotype/
+python2 toSentence.py not_stereotyped_type1.txt.test wino_sentences/test_type1/not_stereotype/
+python2 toSentence.py stereotyped_type2.txt.test wino_sentences/test_type2/stereotype/
+python2 toSentence.py not_stereotyped_type2.txt.test wino_sentences/test_type2/not_stereotype/
+
+
+sh scripts/preprocess.sh ../data/winobias_splits/wino_sentences/test_type1/stereotype/ data/wino_preprocess/test_type1/stereotype/
+sh scripts/preprocess.sh ../data/winobias_splits/wino_sentences/test_type1/not_stereotype/ data/wino_preprocess/test_type1/not_stereotype/
+sh scripts/preprocess.sh ../data/winobias_splits/wino_sentences/test_type2/stereotype/ data/wino_preprocess/test_type2/stereotype/
+sh scripts/preprocess.sh ../data/winobias_splits/wino_sentences/test_type2/not_stereotype/ data/wino_preprocess/test_type2/not_stereotype/
+
+python2 addCoref.py stereotyped_type1.txt.test ../../berkeleycoref/data/wino_preprocess/test_type1/stereotype/ wino_berkeley/test_type1/stereotype/
+python2 addCoref.py not_stereotyped_type1.txt.test ../../berkeleycoref/data/wino_preprocess/test_type1/not_stereotype/ wino_berkeley/test_type1/not_stereotype/
+python2 addCoref.py stereotyped_type2.txt.test ../../berkeleycoref/data/wino_preprocess/test_type2/stereotype/ wino_berkeley/test_type2/stereotype/
+python2 addCoref.py not_stereotyped_type2.txt.test ../../berkeleycoref/data/wino_preprocess/test_type2/not_stereotype/ wino_berkeley/test_type2/not_stereotype/
+
+
+
+sh scripts/evaluate.sh anonymize_final ../data/winobias_splits/wino_berkeley/dev_type1/stereotype/ dev_type1_stereotype
+sh scripts/evaluate.sh anonymize_final ../data/winobias_splits/wino_berkeley/test_type1/not_stereotype/ test_type1_not_stereotype
+sh scripts/evaluate.sh anonymize_final ../data/winobias_splits/wino_berkeley/test_type2/stereotype/ test_type2_stereotype
+sh scripts/evaluate.sh anonymize_final ../data/winobias_splits/wino_berkeley/test_type2/not_stereotype/ test_type2_not_stereotype
+
+
+python2 toWino.py wino_berkeley/test_type2/stereotype/ wino_uw/test_type2/stereotype/
+python2 toWino.py wino_berkeley/test_type2/not_stereotype/ wino_uw/test_type2/not_stereotype/
+python2 toWino.py wino_berkeley/test_type1/stereotype/ wino_uw/test_type1/stereotype/
+python2 toWino.py wino_berkeley/test_type1/not_stereotype/ wino_uw/test_type1/not_stereotype/
+
+
+
+
