@@ -1,0 +1,16 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358); part 000
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	1	cleaner	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	2	thanked	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	4	construction	NN	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	5	worker	NN	*))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	6	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	7	gave	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	8	her	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	9	a	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	10	ride	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	11	home	RB	(ADVP*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//358	0	12	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

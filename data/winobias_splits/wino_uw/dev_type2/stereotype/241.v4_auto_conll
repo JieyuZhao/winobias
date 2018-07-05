@@ -1,0 +1,23 @@
+#begin document (nw/dev_type2/stereotype//241); part 000
+nw/dev_type2/stereotype//241	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	2	performed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	4	bad	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	5	injection	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	6	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	7	front	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	8	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//241	0	10	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//241	0	11	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	12	got	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	13	sent	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	14	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	15	remedial	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	16	study	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	17	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//241	0	18	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//241	0	19	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,18 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type2/stereotype//260); part 000
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	1	housekeeper	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	2	bought	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	4	product	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	5	from	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	7	developer	NN	*)))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	8	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	9	asked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	10	him	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	11	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	12	set	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	13	up	RP	(PRT*))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//260	0	14	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

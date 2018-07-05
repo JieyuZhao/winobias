@@ -1,0 +1,20 @@
+#begin document (nw/test_type1/not_stereotype//123); part 000
+nw/test_type1/not_stereotype//123	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	1	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	2	reminded	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//123	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//123	0	5	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	6	important	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	8	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	9	were	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//123	0	12	promised	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	13	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	14	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	15	careful	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//123	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

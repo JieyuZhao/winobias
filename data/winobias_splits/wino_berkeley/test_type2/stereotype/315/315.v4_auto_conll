@@ -1,0 +1,19 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type2/stereotype//315); part 000
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	1	developer	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	2	consulted	VBN	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	3	with	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	4	the	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	5	counselor	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	6	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	7	hours	NNS	(NP*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	8	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	9	paid	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	10	her	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	11	a	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	12	lot	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	13	of	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	14	money	NN	(NP*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//315	0	15	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

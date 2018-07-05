@@ -1,0 +1,17 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type2/stereotype//366); part 000
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	1	teacher	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	2	explained	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	4	situation	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	5	to	TO	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	7	chief	NN	*)))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	8	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	9	felt	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	10	understood	VBN	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	11	by	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	12	him	PRP	(NP*)))))	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//366	0	13	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

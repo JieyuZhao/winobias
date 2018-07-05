@@ -1,0 +1,20 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363); part 000
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	1	laborer	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	2	wanted	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	3	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	4	take	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	5	the	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	6	attendant	NN	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	7	's	POS	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	8	job	NN	*))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	9	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	10	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	11	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	12	tired	JJ	(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	13	of	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	14	manual	JJ	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	15	labor	NN	*)))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//363	0	16	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

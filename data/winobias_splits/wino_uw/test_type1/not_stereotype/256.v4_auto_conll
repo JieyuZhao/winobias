@@ -1,0 +1,18 @@
+#begin document (nw/test_type1/not_stereotype//256); part 000
+nw/test_type1/not_stereotype//256	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	2	does	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	4	like	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//256	0	6	baker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//256	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//256	0	9	always	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	10	messes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	11	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	13	kitchen	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//256	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

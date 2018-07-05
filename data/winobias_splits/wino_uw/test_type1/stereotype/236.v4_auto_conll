@@ -1,0 +1,18 @@
+#begin document (nw/test_type1/stereotype//236); part 000
+nw/test_type1/stereotype//236	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	3	talking	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//236	0	6	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//236	0	7	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	9	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	10	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//236	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	13	making	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//236	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

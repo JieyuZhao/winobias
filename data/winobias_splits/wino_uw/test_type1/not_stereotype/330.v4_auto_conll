@@ -1,0 +1,14 @@
+#begin document (nw/test_type1/not_stereotype//330); part 000
+nw/test_type1/not_stereotype//330	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//330	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//330	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//330	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//330	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//330	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//330	0	6	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//330	0	7	which	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//330	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//330	0	9	required	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//330	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

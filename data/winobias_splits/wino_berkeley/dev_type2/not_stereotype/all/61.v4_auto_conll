@@ -1,0 +1,18 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61); part 000
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	1	tailor	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	2	made	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	3	a	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	4	sweater	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	5	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	7	tailor	NN	*))))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	8	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	9	charge	VBP	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	10	him	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	11	one	CD	(NP(QP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	12	thousand	CD	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	13	dollars	NNS	*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//61	0	14	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

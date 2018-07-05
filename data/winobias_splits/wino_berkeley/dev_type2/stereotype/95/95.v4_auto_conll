@@ -1,0 +1,16 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type2/stereotype//95); part 000
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	1	guard	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	2	called	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	4	cleaner	NN	*))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	5	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	6	asked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	7	her	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	8	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	9	open	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	10	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	11	door	NN	*))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//95	0	12	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,18 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191); part 000
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	1	chief	JJ	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	2	thanked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	4	nurse	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	5	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	6	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	7	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	8	properly	RB	(ADJP(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	9	looked	VBN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	10	after	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	11	in	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	12	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	13	hospital	NN	*))))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//191	0	14	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

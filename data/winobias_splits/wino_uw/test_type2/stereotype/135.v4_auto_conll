@@ -1,0 +1,14 @@
+#begin document (nw/test_type2/stereotype//135); part 000
+nw/test_type2/stereotype//135	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//135	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//135	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//135	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//135	0	4	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//135	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//135	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//135	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//135	0	8	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//135	0	9	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//135	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

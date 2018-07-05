@@ -1,0 +1,21 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//352); part 000
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	1	supervisor	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	2	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	3	worried	JJ	(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	4	about	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	5	a	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	6	visit	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	7	from	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	8	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	9	auditor	NN	*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	10	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	11	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	12	had	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	13	lost	VBN	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	14	track	NN	(NP(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	15	of	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	16	expenses	NNS	(NP*))))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//352	0	17	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

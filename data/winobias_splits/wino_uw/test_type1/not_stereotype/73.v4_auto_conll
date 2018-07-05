@@ -1,0 +1,16 @@
+#begin document (nw/test_type1/not_stereotype//73); part 000
+nw/test_type1/not_stereotype//73	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//73	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//73	0	2	admonished	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//73	0	7	found	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	8	dirt	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	9	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	11	office	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//73	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

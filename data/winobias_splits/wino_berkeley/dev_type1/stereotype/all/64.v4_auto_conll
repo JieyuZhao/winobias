@@ -1,0 +1,18 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//64); part 000
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	0	The	DT	(TOP(S(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	1	mechanic	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	2	fixed	VBN	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	3	the	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	4	problem	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	5	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	7	editor	NN	*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	8	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	9	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	10	charged	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	11	a	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	12	thousand	CD	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	13	dollars	NNS	*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//64	0	14	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

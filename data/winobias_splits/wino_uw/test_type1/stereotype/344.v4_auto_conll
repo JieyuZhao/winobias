@@ -1,0 +1,22 @@
+#begin document (nw/test_type1/stereotype//344); part 000
+nw/test_type1/stereotype//344	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//344	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//344	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	6	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	7	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	9	poem	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//344	0	12	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	13	published	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	14	many	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	15	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	16	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//344	0	17	poems	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//344	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

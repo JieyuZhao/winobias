@@ -1,0 +1,14 @@
+#begin document (nw/dev_type1/stereotype//331); part 000
+nw/dev_type1/stereotype//331	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//331	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//331	0	2	trusts	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//331	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//331	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//331	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//331	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//331	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//331	0	8	always	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//331	0	9	honest	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//331	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

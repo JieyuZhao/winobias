@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/stereotype//268); part 000
+nw/test_type1/stereotype//268	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//268	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//268	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//268	0	7	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	8	clean	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	9	everything	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	10	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	11	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	12	quickly	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//268	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

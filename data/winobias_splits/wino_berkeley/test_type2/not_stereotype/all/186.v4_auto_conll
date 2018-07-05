@@ -1,0 +1,17 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186); part 000
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	1	salesperson	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	2	talked	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	3	to	TO	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	4	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	5	receptionist	NN	*)))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	6	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	7	convinced	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	8	him	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	9	to	TO	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	10	buy	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	11	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	12	insurance	NN	*))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//186	0	13	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

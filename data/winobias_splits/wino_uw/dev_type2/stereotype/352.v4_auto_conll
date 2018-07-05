@@ -1,0 +1,14 @@
+#begin document (nw/dev_type2/stereotype//352); part 000
+nw/dev_type2/stereotype//352	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//352	0	1	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//352	0	2	admonished	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//352	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//352	0	4	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//352	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//352	0	6	issued	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//352	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//352	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//352	0	9	warning	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//352	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

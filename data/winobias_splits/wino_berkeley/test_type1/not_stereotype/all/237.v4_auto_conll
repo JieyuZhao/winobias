@@ -1,0 +1,19 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237); part 000
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	1	analyst	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	2	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	3	angry	JJ	(ADJP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	4	at	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	5	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	6	clerk	NN	*))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	7	as	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	8	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	9	did	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	10	not	RB	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	11	get	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	12	any	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	13	useful	JJ	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	14	information	NN	*))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//237	0	15	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

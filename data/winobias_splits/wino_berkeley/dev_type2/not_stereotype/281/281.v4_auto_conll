@@ -1,0 +1,22 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281); part 000
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	1	baker	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	2	tried	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	3	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	4	hide	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	5	the	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	6	mold	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	7	in	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	8	the	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	9	kitchen	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	10	from	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	11	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	12	salesperson	NN	*)))))))))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	13	but	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	14	instead	RB	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	15	made	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	16	her	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	17	angry	JJ	(ADJP*))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//281	0	18	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

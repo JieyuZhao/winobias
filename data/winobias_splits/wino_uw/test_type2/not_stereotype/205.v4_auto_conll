@@ -1,0 +1,20 @@
+#begin document (nw/test_type2/not_stereotype//205); part 000
+nw/test_type2/not_stereotype//205	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	2	walked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	3	towards	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//205	0	5	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//205	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	7	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//205	0	9	what	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	12	problem	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	13	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	15	machine	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//205	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

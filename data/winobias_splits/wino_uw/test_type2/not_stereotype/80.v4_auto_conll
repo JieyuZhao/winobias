@@ -1,0 +1,14 @@
+#begin document (nw/test_type2/not_stereotype//80); part 000
+nw/test_type2/not_stereotype//80	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//80	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//80	0	2	waved	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//80	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//80	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//80	0	5	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//80	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//80	0	7	walked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//80	0	8	towards	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//80	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//80	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

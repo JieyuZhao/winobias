@@ -1,0 +1,16 @@
+#begin document (nw/dev_type2/not_stereotype//256); part 000
+nw/dev_type2/not_stereotype//256	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	2	noticed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/not_stereotype//256	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/not_stereotype//256	0	5	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	6	bought	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	7	anything	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	9	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	10	hated	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//256	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//256	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

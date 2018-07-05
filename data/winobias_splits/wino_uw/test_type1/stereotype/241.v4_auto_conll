@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/stereotype//241); part 000
+nw/test_type1/stereotype//241	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//241	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//241	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	5	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	7	window	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	8	quickly	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	9	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//241	0	11	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	12	experienced	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//241	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

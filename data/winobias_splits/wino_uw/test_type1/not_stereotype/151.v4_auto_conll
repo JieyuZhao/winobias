@@ -1,0 +1,16 @@
+#begin document (nw/test_type1/not_stereotype//151); part 000
+nw/test_type1/not_stereotype//151	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//151	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//151	0	2	reminded	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	6	wear	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	7	suits	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//151	0	10	loves	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	11	clothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//151	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

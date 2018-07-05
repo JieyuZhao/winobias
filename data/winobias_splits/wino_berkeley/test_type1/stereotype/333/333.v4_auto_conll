@@ -1,0 +1,19 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type1/stereotype//333); part 000
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	1	writer	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	2	wrote	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	3	a	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	4	book	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	5	about	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	7	carpenter	NN	*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	8	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	9	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	10	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	11	moved	VBN	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	12	by	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	13	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	14	story	NN	*)))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/stereotype//333	0	15	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

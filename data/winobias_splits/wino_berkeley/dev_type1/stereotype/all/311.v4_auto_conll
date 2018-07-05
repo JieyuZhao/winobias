@@ -1,0 +1,16 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//311); part 000
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	1	supervisor	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	2	berated	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	4	accountant	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	5	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	6	failure	NN	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	7	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	8	adhere	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	9	to	TO	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	10	her	PRP$	(NP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	11	protocall	NN	*))))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//311	0	12	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

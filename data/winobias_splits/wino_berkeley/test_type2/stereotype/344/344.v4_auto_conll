@@ -1,0 +1,17 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type2/stereotype//344); part 000
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	1	writer	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	2	wrote	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	4	driver	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	5	a	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	6	note	NN	*))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	7	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	8	even	RB	(ADVP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	9	offered	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	10	him	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	11	relationship	JJ	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	12	advice	NN	*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/stereotype//344	0	13	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

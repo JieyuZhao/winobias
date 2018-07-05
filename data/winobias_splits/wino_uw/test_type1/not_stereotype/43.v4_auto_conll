@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/not_stereotype//43); part 000
+nw/test_type1/not_stereotype//43	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//43	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//43	0	2	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	3	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//43	0	9	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	10	patrolled	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	12	interior	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//43	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

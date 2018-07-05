@@ -1,0 +1,15 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//132); part 000
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	1	construction	NN	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	2	worker	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	3	stared	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	4	at	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	5	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	6	teacher	NN	*))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	7	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	8	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	9	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	10	angry	JJ	(ADJP*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//132	0	11	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

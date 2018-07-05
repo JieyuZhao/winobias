@@ -1,0 +1,20 @@
+#begin document (nw/test_type1/stereotype//99); part 000
+nw/test_type1/stereotype//99	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//99	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//99	0	2	always	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	3	ask	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	7	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//99	0	10	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	11	only	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	12	recognize	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	14	few	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	15	words	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//99	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

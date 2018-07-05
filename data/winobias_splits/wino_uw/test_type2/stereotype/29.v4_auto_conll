@@ -1,0 +1,15 @@
+#begin document (nw/test_type2/stereotype//29); part 000
+nw/test_type2/stereotype//29	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//29	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//29	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	6	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//29	0	9	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	10	relocation	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//29	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

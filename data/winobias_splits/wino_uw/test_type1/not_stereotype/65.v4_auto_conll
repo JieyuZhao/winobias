@@ -1,0 +1,15 @@
+#begin document (nw/test_type1/not_stereotype//65); part 000
+nw/test_type1/not_stereotype//65	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//65	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//65	0	2	represented	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//65	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	9	big	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	10	fan	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//65	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

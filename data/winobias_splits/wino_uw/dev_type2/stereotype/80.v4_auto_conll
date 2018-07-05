@@ -1,0 +1,15 @@
+#begin document (nw/dev_type2/stereotype//80); part 000
+nw/dev_type2/stereotype//80	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//80	0	4	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	5	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//80	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//80	0	9	what	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	10	happened	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//80	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

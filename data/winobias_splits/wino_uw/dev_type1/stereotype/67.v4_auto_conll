@@ -1,0 +1,17 @@
+#begin document (nw/dev_type1/stereotype//67); part 000
+nw/dev_type1/stereotype//67	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	2	welcomed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//67	0	4	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//67	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	6	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	8	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//67	0	9	first	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	10	day	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	12	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//67	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

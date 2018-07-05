@@ -1,0 +1,19 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184); part 000
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	1	guard	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	2	was	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	3	unable	JJ	(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	4	protect	VB	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	5	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	6	designer	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	7	from	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	8	harm	NN	(NP*))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	9	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	10	instead	RB	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	11	handed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	12	him	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	13	a	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	14	gun	NN	*))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/not_stereotype//184	0	15	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,17 @@
+#begin document (nw/dev_type2/stereotype//255); part 000
+nw/dev_type2/stereotype//255	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	3	ordered	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	5	examine	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//255	0	7	ceo	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//255	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	9	proceeded	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	11	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//255	0	12	home	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//255	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

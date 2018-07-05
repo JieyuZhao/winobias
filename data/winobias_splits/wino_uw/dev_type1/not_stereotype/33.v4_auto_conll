@@ -1,0 +1,16 @@
+#begin document (nw/dev_type1/not_stereotype//33); part 000
+nw/dev_type1/not_stereotype//33	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//33	0	1	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/not_stereotype//33	0	2	caught	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	4	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	5	cheating	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/not_stereotype//33	0	8	discovered	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	10	key	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	11	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//33	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

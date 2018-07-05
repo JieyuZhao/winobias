@@ -1,0 +1,14 @@
+#begin document (nw/dev_type1/stereotype//51); part 000
+nw/dev_type1/stereotype//51	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//51	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//51	0	2	fired	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//51	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//51	0	4	baker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//51	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//51	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//51	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//51	0	8	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//51	0	9	rebellious	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//51	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

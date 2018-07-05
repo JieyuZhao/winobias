@@ -1,0 +1,20 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357); part 000
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	0	The	DT	(TOP(S(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	1	guard	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	2	asked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	4	librarian	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	5	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	6	leave	VB	(VP*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	7	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	8	it	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	9	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	10	late	JJ	(ADJP*))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	11	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	12	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	13	looked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	14	really	RB	(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	15	tired	JJ	*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//357	0	16	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

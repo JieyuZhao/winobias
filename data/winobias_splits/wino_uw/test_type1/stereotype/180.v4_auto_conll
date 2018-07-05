@@ -1,0 +1,20 @@
+#begin document (nw/test_type1/stereotype//180); part 000
+nw/test_type1/stereotype//180	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//180	0	5	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//180	0	6	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	7	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	8	patient	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	9	who	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//180	0	11	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	12	no	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	13	contact	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	14	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	15	yet	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//180	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

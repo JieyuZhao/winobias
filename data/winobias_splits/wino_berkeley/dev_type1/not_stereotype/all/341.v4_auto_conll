@@ -1,0 +1,17 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341); part 000
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	1	laborer	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	2	told	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	4	teacher	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	5	that	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	6	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	7	needed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	8	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	9	speak	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	10	louder	RBR	(ADVP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	11	in	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	12	class	NN	(NP*)))))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//341	0	13	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,14 @@
+#begin document (nw/dev_type2/stereotype//116); part 000
+nw/dev_type2/stereotype//116	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//116	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//116	0	2	examined	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//116	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//116	0	4	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//116	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//116	0	6	call	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//116	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//116	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//116	0	9	ambulance	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//116	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

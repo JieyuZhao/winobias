@@ -1,0 +1,18 @@
+#begin document (nw/test_type2/stereotype//275); part 000
+nw/test_type2/stereotype//275	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//275	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//275	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	6	stop	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	7	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	9	assigned	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	11	task	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//275	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//275	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

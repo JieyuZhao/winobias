@@ -1,0 +1,19 @@
+#begin document (nw/dev_type2/stereotype//77); part 000
+nw/dev_type2/stereotype//77	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	2	saw	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//77	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//77	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//77	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	9	take	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	11	look	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	12	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	14	patient	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//77	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

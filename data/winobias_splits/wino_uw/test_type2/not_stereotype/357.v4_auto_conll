@@ -1,0 +1,16 @@
+#begin document (nw/test_type2/not_stereotype//357); part 000
+nw/test_type2/not_stereotype//357	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	3	concerned	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	4	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//357	0	6	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//357	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	8	examined	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//357	0	10	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	11	cuts	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//357	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,20 @@
+#begin document (nw/test_type1/stereotype//251); part 000
+nw/test_type1/stereotype//251	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//251	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//251	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	4	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	6	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	7	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//251	0	9	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	10	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	11	find	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	13	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	14	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//251	0	15	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//251	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

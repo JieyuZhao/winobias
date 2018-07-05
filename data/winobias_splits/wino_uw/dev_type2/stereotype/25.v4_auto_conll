@@ -1,0 +1,17 @@
+#begin document (nw/dev_type2/stereotype//25); part 000
+nw/dev_type2/stereotype//25	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	2	prepared	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	4	soup	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//25	0	7	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//25	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	9	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//25	0	11	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	12	tips	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//25	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

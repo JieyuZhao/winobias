@@ -1,0 +1,23 @@
+#begin document (nw/test_type1/not_stereotype//101); part 000
+nw/test_type1/not_stereotype//101	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//101	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//101	0	2	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	4	meet	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	6	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//101	0	9	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	10	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	11	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	12	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//101	0	14	responsibility	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	15	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	17	medical	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	18	accident	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//101	0	19	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/stereotype//90); part 000
+nw/test_type1/stereotype//90	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	2	sends	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//90	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//90	0	5	sorted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	6	newspapers	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	7	every	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	8	day	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//90	0	11	required	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	12	previously	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//90	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

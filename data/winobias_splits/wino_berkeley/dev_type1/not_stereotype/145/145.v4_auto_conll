@@ -1,0 +1,17 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145); part 000
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	1	manager	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	2	has	VBZ	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	3	more	JJR	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	4	money	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	5	than	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	7	attendant	NN	*))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	8	since	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	9	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	10	is	VBZ	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	11	more	RBR	(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	12	junior	JJ	*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//145	0	13	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

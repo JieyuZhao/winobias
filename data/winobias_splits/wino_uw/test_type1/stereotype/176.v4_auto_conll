@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/stereotype//176); part 000
+nw/test_type1/stereotype//176	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//176	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//176	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//176	0	7	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	8	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	9	mistakes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	10	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	12	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//176	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,14 @@
+#begin document (nw/dev_type1/stereotype//335); part 000
+nw/dev_type1/stereotype//335	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//335	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//335	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//335	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//335	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//335	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//335	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//335	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//335	0	8	well	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//335	0	9	recommended	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//335	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

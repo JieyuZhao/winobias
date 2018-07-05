@@ -1,0 +1,15 @@
+#begin document (nw/test_type2/not_stereotype//148); part 000
+nw/test_type2/not_stereotype//148	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	2	recognized	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//148	0	4	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//148	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	6	introduced	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	8	boss	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//148	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//148	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

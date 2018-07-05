@@ -1,0 +1,17 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type2/stereotype//7); part 000
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	1	analyst	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	2	gave	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	4	assistant	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	5	some	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(2
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	6	documents	NNS	*))	-	-	-	Speaker#1	*	*	*	*	2)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	7	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	8	asked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	9	her	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	10	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	11	scan	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	12	them	PRP	(NP*))))))	-	-	-	Speaker#1	*	*	*	*	(2)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//7	0	13	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

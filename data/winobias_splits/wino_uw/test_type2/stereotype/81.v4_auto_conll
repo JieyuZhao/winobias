@@ -1,0 +1,17 @@
+#begin document (nw/test_type2/stereotype//81); part 000
+nw/test_type2/stereotype//81	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	2	smiled	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//81	0	5	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//81	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	7	handed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//81	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	10	cup	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	11	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	12	tea	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//81	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

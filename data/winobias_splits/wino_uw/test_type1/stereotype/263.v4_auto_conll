@@ -1,0 +1,18 @@
+#begin document (nw/test_type1/stereotype//263); part 000
+nw/test_type1/stereotype//263	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//263	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//263	0	2	likes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	4	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	6	product	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//263	0	9	agreed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	11	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	13	purchase	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//263	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,16 @@
+#begin document (nw/test_type2/not_stereotype//133); part 000
+nw/test_type2/not_stereotype//133	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	1	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	2	dislikes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//133	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//133	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//133	0	7	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	9	kitchen	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	10	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	11	dirty	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//133	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

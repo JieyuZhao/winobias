@@ -1,0 +1,18 @@
+#begin document (nw/test_type2/stereotype//330); part 000
+nw/test_type2/stereotype//330	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//330	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//330	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	6	clean	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	7	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	9	meeting	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	10	room	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	11	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	12	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//330	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//330	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,15 @@
+#begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//258); part 000
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	1	chief	JJ	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	2	handed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	4	baker	NN	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	5	money	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	6	in	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	7	payment	NN	(NP(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	8	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	9	his	PRP$	(NP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	10	purchase	NN	*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//258	0	11	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

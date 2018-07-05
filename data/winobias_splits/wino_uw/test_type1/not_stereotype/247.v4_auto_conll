@@ -1,0 +1,16 @@
+#begin document (nw/test_type1/not_stereotype//247); part 000
+nw/test_type1/not_stereotype//247	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//247	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//247	0	2	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	4	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	6	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	7	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//247	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	10	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	11	busy	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//247	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

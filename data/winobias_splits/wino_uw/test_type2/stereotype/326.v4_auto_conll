@@ -1,0 +1,19 @@
+#begin document (nw/test_type2/stereotype//326); part 000
+nw/test_type2/stereotype//326	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	1	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//326	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//326	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//326	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	9	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	10	careful	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	11	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	(MISC*	-
+nw/test_type2/stereotype//326	0	13	Expo	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//326	0	14	Location	-	-	-	-	-	Speaker#1	*	*	*	*)	-
+nw/test_type2/stereotype//326	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

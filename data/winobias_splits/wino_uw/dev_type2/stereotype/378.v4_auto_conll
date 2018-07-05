@@ -1,0 +1,21 @@
+#begin document (nw/dev_type2/stereotype//378); part 000
+nw/dev_type2/stereotype//378	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	2	handed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	4	document	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//378	0	7	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//378	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	9	explained	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//378	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	13	importance	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	14	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	15	prompt	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	16	filing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//378	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

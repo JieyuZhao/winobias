@@ -1,0 +1,14 @@
+#begin document (nw/test_type1/stereotype//365); part 000
+nw/test_type1/stereotype//365	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//365	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//365	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//365	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//365	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//365	0	5	if	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//365	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//365	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//365	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//365	0	9	table	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//365	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

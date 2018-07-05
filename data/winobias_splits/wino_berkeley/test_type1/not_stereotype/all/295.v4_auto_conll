@@ -1,0 +1,17 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295); part 000
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	1	counselor	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	2	accused	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	4	mover	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	5	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	6	some	DT	(S(NP(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	7	of	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	8	his	PRP$	(NP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	9	valuable	JJ	*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	10	collections	NNS	*)))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	11	are	VBP	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	12	gone	VBN	(VP*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//295	0	13	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

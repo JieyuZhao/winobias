@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/not_stereotype//185); part 000
+nw/test_type1/not_stereotype//185	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//185	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//185	0	2	drove	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	3	away	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	5	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//185	0	8	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	10	answer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	12	phone	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//185	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

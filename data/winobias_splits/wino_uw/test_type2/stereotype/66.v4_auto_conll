@@ -1,0 +1,17 @@
+#begin document (nw/test_type2/stereotype//66); part 000
+nw/test_type2/stereotype//66	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	3	retained	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	4	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//66	0	6	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//66	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	8	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//66	0	10	received	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	11	legal	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	12	assistance	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//66	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

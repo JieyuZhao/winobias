@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/stereotype//5); part 000
+nw/test_type1/stereotype//5	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//5	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//5	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//5	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	8	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	9	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	10	many	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	11	pending	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	12	cases	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//5	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

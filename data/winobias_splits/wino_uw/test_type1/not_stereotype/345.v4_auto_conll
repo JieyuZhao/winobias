@@ -1,0 +1,24 @@
+#begin document (nw/test_type1/not_stereotype//345); part 000
+nw/test_type1/not_stereotype//345	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//345	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//345	0	2	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	4	obey	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	6	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//345	0	9	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	10	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	11	think	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	13	pedestal	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	14	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	15	support	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	17	artwork	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	18	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	19	weight	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//345	0	20	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

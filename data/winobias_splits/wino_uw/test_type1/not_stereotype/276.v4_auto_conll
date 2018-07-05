@@ -1,0 +1,16 @@
+#begin document (nw/test_type1/not_stereotype//276); part 000
+nw/test_type1/not_stereotype//276	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//276	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//276	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//276	0	7	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	8	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	9	everything	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	10	well	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	11	organized	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//276	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

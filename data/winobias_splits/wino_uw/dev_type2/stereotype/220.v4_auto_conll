@@ -1,0 +1,17 @@
+#begin document (nw/dev_type2/stereotype//220); part 000
+nw/dev_type2/stereotype//220	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	1	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	2	always	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	3	used	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//220	0	5	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//220	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	7	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	9	handed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//220	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	12	hammer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//220	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

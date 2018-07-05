@@ -1,0 +1,14 @@
+#begin document (nw/test_type1/stereotype//305); part 000
+nw/test_type1/stereotype//305	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//305	0	1	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//305	0	2	kicked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//305	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//305	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//305	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//305	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//305	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//305	0	8	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//305	0	9	angry	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//305	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

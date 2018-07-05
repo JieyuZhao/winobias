@@ -1,0 +1,19 @@
+#begin document (nw/test_type2/stereotype//97); part 000
+nw/test_type2/stereotype//97	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	2	smiled	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//97	0	5	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//97	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	7	reminded	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//97	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	10	pick	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	12	boss	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	13	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	14	time	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//97	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

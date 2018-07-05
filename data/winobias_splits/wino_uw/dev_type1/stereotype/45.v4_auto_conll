@@ -1,0 +1,17 @@
+#begin document (nw/dev_type1/stereotype//45); part 000
+nw/dev_type1/stereotype//45	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	2	chatted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//45	0	5	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//45	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//45	0	8	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	10	buy	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	12	vacuum	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//45	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

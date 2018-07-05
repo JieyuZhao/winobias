@@ -1,0 +1,15 @@
+#begin document (nw/test_type2/stereotype//2); part 000
+nw/test_type2/stereotype//2	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	2	notified	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//2	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//2	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//2	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	9	take	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	10	note	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//2	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

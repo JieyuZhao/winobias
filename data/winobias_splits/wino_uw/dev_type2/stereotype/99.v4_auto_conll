@@ -1,0 +1,16 @@
+#begin document (nw/dev_type2/stereotype//99); part 000
+nw/dev_type2/stereotype//99	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	1	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//99	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//99	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//99	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	9	clean	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	11	room	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//99	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

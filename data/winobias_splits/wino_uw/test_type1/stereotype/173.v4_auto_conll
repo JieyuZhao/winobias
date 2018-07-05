@@ -1,0 +1,19 @@
+#begin document (nw/test_type1/stereotype//173); part 000
+nw/test_type1/stereotype//173	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//173	0	1	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//173	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	4	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	5	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	6	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	7	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//173	0	10	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	12	know	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	14	progress	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

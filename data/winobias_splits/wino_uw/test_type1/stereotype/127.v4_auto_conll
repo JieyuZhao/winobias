@@ -1,0 +1,16 @@
+#begin document (nw/test_type1/stereotype//127); part 000
+nw/test_type1/stereotype//127	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//127	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//127	0	2	checked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	6	identity	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	8	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	9	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//127	0	11	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

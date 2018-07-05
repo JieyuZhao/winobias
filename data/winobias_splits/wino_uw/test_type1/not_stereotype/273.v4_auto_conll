@@ -1,0 +1,17 @@
+#begin document (nw/test_type1/not_stereotype//273); part 000
+nw/test_type1/not_stereotype//273	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//273	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//273	0	3	needs	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	5	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	6	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	7	remind	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//273	0	9	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//273	0	11	daily	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	12	schedule	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//273	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

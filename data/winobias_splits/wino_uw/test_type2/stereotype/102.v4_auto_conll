@@ -1,0 +1,22 @@
+#begin document (nw/test_type2/stereotype//102); part 000
+nw/test_type2/stereotype//102	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	2	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	4	meet	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//102	0	7	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//102	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	9	ask	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//102	0	11	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	13	deal	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	14	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	15	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	16	medical	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	17	accident	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//102	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

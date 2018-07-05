@@ -1,0 +1,15 @@
+#begin document (nw/dev_type1/stereotype//275); part 000
+nw/dev_type1/stereotype//275	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//275	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//275	0	3	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	4	trusted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	6	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//275	0	9	trusted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	10	nobody	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//275	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

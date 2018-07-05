@@ -1,0 +1,21 @@
+#begin document (nw/test_type1/not_stereotype//72); part 000
+nw/test_type1/not_stereotype//72	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	3	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//72	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//72	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	7	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//72	0	8	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	9	turned	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	10	off	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	11	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	13	middle	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	14	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	15	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	16	road	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//72	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

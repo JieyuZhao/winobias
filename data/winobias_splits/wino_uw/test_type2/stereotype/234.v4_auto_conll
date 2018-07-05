@@ -1,0 +1,17 @@
+#begin document (nw/test_type2/stereotype//234); part 000
+nw/test_type2/stereotype//234	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	2	passed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	4	box	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//234	0	7	baker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//234	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	9	appreciated	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//234	0	11	baking	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	12	skills	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//234	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

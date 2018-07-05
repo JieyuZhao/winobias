@@ -1,0 +1,16 @@
+#begin document (nw/test_type2/not_stereotype//32); part 000
+nw/test_type2/not_stereotype//32	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	2	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	3	eye	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	4	contact	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//32	0	7	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//32	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	9	smiled	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	10	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//32	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//32	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

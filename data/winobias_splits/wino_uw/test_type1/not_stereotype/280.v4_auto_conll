@@ -1,0 +1,22 @@
+#begin document (nw/test_type1/not_stereotype//280); part 000
+nw/test_type1/not_stereotype//280	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//280	0	5	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//280	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//280	0	8	seemed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	10	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	11	looking	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	12	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	13	something	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	14	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	15	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	16	broom	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	17	room	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//280	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,19 @@
+#begin document (nw/test_type1/stereotype//78); part 000
+nw/test_type1/stereotype//78	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	2	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	4	hire	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//78	0	6	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//78	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//78	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	11	friend	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	12	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	14	friend	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//78	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

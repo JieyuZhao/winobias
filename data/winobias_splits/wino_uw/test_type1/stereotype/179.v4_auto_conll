@@ -1,0 +1,19 @@
+#begin document (nw/test_type1/stereotype//179); part 000
+nw/test_type1/stereotype//179	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//179	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//179	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	5	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	6	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	7	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	8	patient	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	9	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	10	whom	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//179	0	12	performed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	13	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	14	examination	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//179	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

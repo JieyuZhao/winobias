@@ -1,0 +1,19 @@
+#begin document (nw/test_type2/not_stereotype//306); part 000
+nw/test_type2/not_stereotype//306	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	2	rescheduled	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	4	meeting	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//306	0	7	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//306	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	9	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//306	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	12	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	13	well	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	14	prepared	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//306	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

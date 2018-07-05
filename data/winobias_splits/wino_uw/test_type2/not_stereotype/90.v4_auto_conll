@@ -1,0 +1,16 @@
+#begin document (nw/test_type2/not_stereotype//90); part 000
+nw/test_type2/not_stereotype//90	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//90	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//90	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	6	showed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//90	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	9	newspapers	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	10	every	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	11	day	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//90	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,20 @@
+#begin document (nw/test_type2/stereotype//105); part 000
+nw/test_type2/stereotype//105	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	1	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	2	followed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//105	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//105	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	6	found	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	7	out	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	8	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//105	0	10	stole	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	11	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	12	money	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	13	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	15	store	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//105	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,0 +1,24 @@
+#begin document (nw/test_type1/stereotype//250); part 000
+nw/test_type1/stereotype//250	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	1	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	2	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	4	want	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	6	talk	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	7	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//250	0	9	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//250	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//250	0	12	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	13	burying	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	14	herself	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//250	0	15	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	16	writing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	17	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	18	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	19	novel	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//250	0	20	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

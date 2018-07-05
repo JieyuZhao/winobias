@@ -1,0 +1,20 @@
+#begin document (nw/dev_type1/stereotype//280); part 000
+nw/dev_type1/stereotype//280	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//280	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//280	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	4	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	6	stop	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	7	selling	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	8	bread	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//280	0	11	found	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	12	mold	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	13	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	15	kitchen	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//280	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

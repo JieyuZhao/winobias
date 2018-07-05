@@ -1,0 +1,19 @@
+#begin document (nw/test_type1/not_stereotype//183); part 000
+nw/test_type1/not_stereotype//183	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//183	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//183	0	2	sent	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	4	report	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	7	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//183	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	11	required	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	13	do	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	14	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//183	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

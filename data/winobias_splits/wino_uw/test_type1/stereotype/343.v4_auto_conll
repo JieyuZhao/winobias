@@ -1,0 +1,23 @@
+#begin document (nw/test_type1/stereotype//343); part 000
+nw/test_type1/stereotype//343	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//343	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//343	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	6	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	7	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	9	poem	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//343	0	12	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	13	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	14	written	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	15	anything	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	16	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	17	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//343	0	18	life	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//343	0	19	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

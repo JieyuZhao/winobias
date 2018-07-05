@@ -1,0 +1,22 @@
+#begin document (nw/test_type1/not_stereotype//255); part 000
+nw/test_type1/not_stereotype//255	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//255	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//255	0	2	does	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	4	like	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	6	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//255	0	9	needs	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	11	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	12	clean	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	14	messy	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	15	machine	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	16	every	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	17	day	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

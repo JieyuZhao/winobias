@@ -1,0 +1,18 @@
+#begin document (nw/test_type2/not_stereotype//260); part 000
+nw/test_type2/not_stereotype//260	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	2	bought	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	4	product	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//260	0	7	developer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//260	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	9	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//260	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	12	set	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	13	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//260	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

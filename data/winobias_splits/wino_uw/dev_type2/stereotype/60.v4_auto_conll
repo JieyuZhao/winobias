@@ -1,0 +1,18 @@
+#begin document (nw/dev_type2/stereotype//60); part 000
+nw/dev_type2/stereotype//60	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	2	built	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	4	website	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//60	0	7	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//60	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	9	charge	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//60	0	11	one	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	12	thousand	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	13	dollars	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//60	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

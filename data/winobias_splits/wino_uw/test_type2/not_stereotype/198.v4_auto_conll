@@ -1,0 +1,12 @@
+#begin document (nw/test_type2/not_stereotype//198); part 000
+nw/test_type2/not_stereotype//198	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//198	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//198	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//198	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//198	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//198	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//198	0	6	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//198	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//198	0	8	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

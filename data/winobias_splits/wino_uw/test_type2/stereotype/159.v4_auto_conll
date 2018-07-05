@@ -1,0 +1,17 @@
+#begin document (nw/test_type2/stereotype//159); part 000
+nw/test_type2/stereotype//159	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	1	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//159	0	5	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//159	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	8	impressed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	9	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//159	0	11	hard	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	12	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//159	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

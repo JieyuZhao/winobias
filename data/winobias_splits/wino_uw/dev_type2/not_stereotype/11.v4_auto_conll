@@ -1,0 +1,17 @@
+#begin document (nw/dev_type2/not_stereotype//11); part 000
+nw/dev_type2/not_stereotype//11	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	1	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	3	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	4	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/not_stereotype//11	0	7	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/not_stereotype//11	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	9	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//11	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	12	read	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//11	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document
