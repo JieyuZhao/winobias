@@ -1,0 +1,4 @@
+python change_expConf.py data/wino_test/final/test_type1/
+python change_expConf.py data/wino_test/final/test_type2/
+
+
