@@ -2,16 +2,17 @@
 nw/dev_type2/not_stereotype//40	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//40	0	1	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//40	0	2	bought	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//40	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/not_stereotype//40	0	4	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/not_stereotype//40	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//40	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//40	0	4	guard	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/not_stereotype//40	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/not_stereotype//40	0	6	gift	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//40	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//40	0	8	wish	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//40	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/not_stereotype//40	0	10	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//40	0	11	nice	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//40	0	12	holiday	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//40	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//40	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//40	0	10	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//40	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//40	0	12	nice	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//40	0	13	holiday	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//40	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

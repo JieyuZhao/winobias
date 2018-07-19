@@ -1,15 +1,15 @@
 #begin document (nw/dev_type1/stereotype//60); part 000
-nw/dev_type1/stereotype//60	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//60	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//60	0	2	built	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//60	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//60	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//60	0	2	built	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//60	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//60	0	4	website	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//60	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//60	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//60	0	7	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//60	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//60	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//60	0	10	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//60	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//60	0	10	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//60	0	11	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//60	0	12	expert	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//60	0	13	in	-	-	-	-	-	Speaker#1	*	*	*	*	-

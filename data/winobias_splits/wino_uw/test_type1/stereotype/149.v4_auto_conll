@@ -1,16 +1,22 @@
 #begin document (nw/test_type1/stereotype//149); part 000
-nw/test_type1/stereotype//149	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//149	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//149	0	2	disliked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//149	0	2	showed	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/stereotype//149	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	4	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//149	0	7	failed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	9	sell	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	11	insurance	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//149	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	6	way	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	9	hall	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//149	0	13	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	14	familiar	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	15	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	17	city	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//149	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

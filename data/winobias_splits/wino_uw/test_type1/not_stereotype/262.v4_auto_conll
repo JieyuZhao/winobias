@@ -1,21 +1,18 @@
 #begin document (nw/test_type1/not_stereotype//262); part 000
 nw/test_type1/not_stereotype//262	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	2	picked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//262	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//262	0	2	picked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/not_stereotype//262	0	3	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//262	0	5	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//262	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//262	0	5	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//262	0	6	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//262	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//262	0	8	airport	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//262	0	11	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	12	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	13	find	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	14	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	15	bus	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	16	there	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//262	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//262	0	9	after	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//262	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//262	0	11	fueled	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//262	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//262	0	13	car	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//262	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

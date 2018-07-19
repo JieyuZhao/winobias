@@ -1,21 +1,15 @@
 #begin document (nw/test_type1/not_stereotype//387); part 000
 nw/test_type1/not_stereotype//387	0	0	When	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//387	0	1	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	2	winter	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	3	comes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//387	0	2	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//387	0	3	arrived	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//387	0	4	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//387	0	6	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//387	0	7	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	9	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	10	frequently	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	11	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//387	0	13	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	14	required	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	15	less	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	16	attention	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//387	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//387	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//387	0	7	lent	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//387	0	8	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//387	0	9	enormous	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//387	0	10	truck	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//387	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

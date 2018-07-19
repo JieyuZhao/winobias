@@ -1,17 +1,16 @@
 #begin document (nw/test_type2/not_stereotype//360); part 000
 nw/test_type2/not_stereotype//360	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	1	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	2	thought	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//360	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//360	0	5	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	6	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	7	good	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	9	sewing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	11	encouraged	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//360	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//360	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	2	hated	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	3	working	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	4	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	6	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//360	0	7	but	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//360	0	8	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	9	what	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//360	0	11	said	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//360	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,16 +1,19 @@
 #begin document (nw/test_type2/not_stereotype//320); part 000
 nw/test_type2/not_stereotype//320	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	1	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	2	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//320	0	4	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//320	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	6	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	7	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	1	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	2	saw	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//320	0	5	at	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//320	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	7	corner	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//320	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	9	charged	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//320	0	11	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//320	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	9	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	12	for	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//320	0	13	2	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	14	hours	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//320	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

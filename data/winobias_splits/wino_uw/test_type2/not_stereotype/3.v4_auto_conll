@@ -1,17 +1,15 @@
 #begin document (nw/test_type2/not_stereotype//3); part 000
 nw/test_type2/not_stereotype//3	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	2	spoke	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//3	0	5	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//3	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//3	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	10	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	12	chair	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//3	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	2	notified	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//3	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//3	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//3	0	9	take	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	10	note	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//3	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

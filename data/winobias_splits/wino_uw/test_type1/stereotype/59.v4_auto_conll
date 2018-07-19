@@ -1,14 +1,17 @@
 #begin document (nw/test_type1/stereotype//59); part 000
-nw/test_type1/stereotype//59	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//59	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//59	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//59	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	2	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//59	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//59	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//59	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//59	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//59	0	8	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//59	0	9	distressed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//59	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//59	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//59	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	8	seemed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//59	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	10	need	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	12	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//59	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

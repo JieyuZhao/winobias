@@ -1,18 +1,21 @@
 #begin document (nw/test_type2/stereotype//259); part 000
 nw/test_type2/stereotype//259	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	2	succesfully	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	3	sold	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//259	0	5	housekeepr	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//259	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	7	product	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	9	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//259	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	2	got	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	4	phone	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	5	call	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	6	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	8	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//259	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//259	0	10	began	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//259	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	12	set	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	13	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//259	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	12	prepare	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	14	surgery	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	15	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	16	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//259	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

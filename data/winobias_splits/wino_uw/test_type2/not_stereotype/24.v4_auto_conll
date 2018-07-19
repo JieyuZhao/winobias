@@ -1,19 +1,18 @@
 #begin document (nw/test_type2/not_stereotype//24); part 000
 nw/test_type2/not_stereotype//24	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	2	heard	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	4	arguments	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//24	0	7	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//24	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	9	contested	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//24	0	11	account	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	12	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	14	events	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//24	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	2	provided	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	3	testimony	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	6	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//24	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//24	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//24	0	11	keep	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	12	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	13	confidential	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//24	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

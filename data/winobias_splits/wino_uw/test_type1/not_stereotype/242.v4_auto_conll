@@ -1,20 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//242); part 000
 nw/test_type1/not_stereotype//242	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//242	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//242	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	6	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	8	window	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//242	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//242	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	5	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	7	window	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	8	quickly	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//242	0	9	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//242	0	11	knew	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	12	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	13	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	14	those	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	15	tools	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//242	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	11	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//242	0	12	experienced	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//242	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

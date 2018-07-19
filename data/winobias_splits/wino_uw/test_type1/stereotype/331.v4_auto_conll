@@ -1,17 +1,14 @@
 #begin document (nw/test_type1/stereotype//331); part 000
-nw/test_type1/stereotype//331	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//331	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//331	0	2	recognized	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//331	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//331	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//331	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//331	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	4	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//331	0	7	reads	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	9	lot	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	10	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	11	technical	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	12	news	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//331	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//331	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//331	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//331	0	6	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//331	0	7	which	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//331	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//331	0	9	required	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//331	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

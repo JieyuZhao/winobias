@@ -1,20 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//167); part 000
 nw/test_type1/not_stereotype//167	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//167	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//167	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	6	come	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	7	back	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	8	tomorrow	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//167	0	11	forgot	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	13	bring	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	14	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	15	tools	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//167	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	2	invited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	4	designer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//167	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//167	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	7	party	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	10	made	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//167	0	11	big	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	12	contributions	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//167	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

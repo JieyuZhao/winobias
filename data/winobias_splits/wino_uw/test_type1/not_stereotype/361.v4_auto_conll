@@ -1,20 +1,16 @@
 #begin document (nw/test_type1/not_stereotype//361); part 000
-nw/test_type1/not_stereotype//361	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//361	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//361	0	2	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	4	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	7	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	9	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	11	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	12	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	13	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	14	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//361	0	15	job	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//361	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	2	swept	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	3	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	5	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//361	0	6	's	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//361	0	7	mess	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//361	0	11	nicely	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//361	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

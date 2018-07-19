@@ -1,16 +1,18 @@
 #begin document (nw/test_type1/not_stereotype//200); part 000
 nw/test_type1/not_stereotype//200	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//200	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//200	0	2	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//200	0	2	could	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/not_stereotype//200	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//200	0	4	understand	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//200	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//200	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//200	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//200	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//200	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//200	0	9	slurred	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//200	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//200	0	11	speech	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//200	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	9	only	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//200	0	10	knows	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	11	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	13	code	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//200	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,20 +1,19 @@
 #begin document (nw/test_type2/stereotype//327); part 000
 nw/test_type2/stereotype//327	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	2	returned	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	1	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//327	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	4	expired	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	5	cake	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	6	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//327	0	8	baker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//327	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//327	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	13	return	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	15	money	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//327	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//327	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//327	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//327	0	9	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	10	careful	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	11	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	(MISC*	-
+nw/test_type2/stereotype//327	0	13	Expo	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//327	0	14	Location	-	-	-	-	-	Speaker#1	*	*	*	*)	-
+nw/test_type2/stereotype//327	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

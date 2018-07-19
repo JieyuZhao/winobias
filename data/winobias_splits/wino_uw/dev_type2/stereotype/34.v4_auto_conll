@@ -1,16 +1,16 @@
 #begin document (nw/dev_type2/stereotype//34); part 000
 nw/dev_type2/stereotype//34	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//34	0	1	ceo	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//34	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//34	0	2	raised	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//34	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//34	0	4	salary	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//34	0	5	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//34	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//34	0	7	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//34	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//34	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//34	0	7	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//34	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//34	0	9	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//34	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//34	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//34	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//34	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type2/stereotype//34	0	12	paid	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//34	0	13	holiday	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//34	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

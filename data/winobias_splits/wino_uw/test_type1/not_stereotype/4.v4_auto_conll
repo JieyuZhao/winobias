@@ -1,17 +1,20 @@
 #begin document (nw/test_type1/not_stereotype//4); part 000
 nw/test_type1/not_stereotype//4	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//4	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/not_stereotype//4	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//4	0	5	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//4	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	5	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//4	0	6	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//4	0	7	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//4	0	9	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	10	ask	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	11	science	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	12	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//4	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	9	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//4	0	10	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	12	cabinets	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	13	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	15	classroom	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//4	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

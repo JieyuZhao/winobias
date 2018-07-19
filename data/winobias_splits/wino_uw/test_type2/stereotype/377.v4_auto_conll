@@ -1,18 +1,20 @@
 #begin document (nw/test_type2/stereotype//377); part 000
-nw/test_type2/stereotype//377	0	0	Being	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	1	exhausted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	2	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	3	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	4	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	6	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	7	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//377	0	9	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//377	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	11	ranted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//377	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//377	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	2	anticipated	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	4	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//377	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//377	0	6	investigation	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	8	filed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	10	complaint	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	11	against	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	12	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	13	for	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//377	0	14	mishandling	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	15	evidence	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//377	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

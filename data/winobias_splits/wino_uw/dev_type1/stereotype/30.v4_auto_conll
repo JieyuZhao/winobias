@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//30); part 000
-nw/dev_type1/stereotype//30	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//30	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//30	0	2	hit	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//30	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//30	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//30	0	2	hit	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//30	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//30	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//30	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//30	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//30	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//30	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//30	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//30	0	8	using	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//30	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//30	0	10	cellphone	-	-	-	-	-	Speaker#1	*	*	*	*	-

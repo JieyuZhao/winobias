@@ -1,16 +1,16 @@
 #begin document (nw/test_type1/stereotype//126); part 000
 nw/test_type1/stereotype//126	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//126	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//126	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//126	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//126	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//126	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//126	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//126	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//126	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//126	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//126	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//126	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//126	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//126	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/test_type1/stereotype//126	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//126	0	9	learn	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//126	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//126	0	11	hem	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//126	0	9	adjust	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//126	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//126	0	11	pants	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//126	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

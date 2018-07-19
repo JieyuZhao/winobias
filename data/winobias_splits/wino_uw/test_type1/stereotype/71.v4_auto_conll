@@ -1,18 +1,18 @@
 #begin document (nw/test_type1/stereotype//71); part 000
-nw/test_type1/stereotype//71	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//71	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//71	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	3	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	2	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//71	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//71	0	8	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	10	inquire	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	11	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//71	0	13	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	5	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//71	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//71	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	8	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//71	0	9	good	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	10	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	11	making	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	12	fitted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//71	0	13	suits	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//71	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,14 +1,14 @@
 #begin document (nw/test_type2/not_stereotype//394); part 000
 nw/test_type2/not_stereotype//394	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//394	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//394	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//394	0	2	befriended	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//394	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//394	0	4	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//394	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//394	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//394	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//394	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type2/not_stereotype//394	0	6	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//394	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//394	0	8	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//394	0	9	staff	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//394	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//394	0	8	about	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//394	0	9	school	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//394	0	10	gossip	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//394	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

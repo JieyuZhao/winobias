@@ -1,17 +1,16 @@
 #begin document (nw/test_type2/not_stereotype//114); part 000
 nw/test_type2/not_stereotype//114	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//114	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//114	0	2	smiled	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//114	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//114	0	5	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//114	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	7	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//114	0	9	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	10	buying	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	12	insurance	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//114	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//114	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//114	0	5	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//114	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//114	0	7	started	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//114	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//114	0	9	take	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//114	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//114	0	11	temperature	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//114	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

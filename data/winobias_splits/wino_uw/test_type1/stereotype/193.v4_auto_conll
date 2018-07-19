@@ -1,15 +1,17 @@
 #begin document (nw/test_type1/stereotype//193); part 000
-nw/test_type1/stereotype//193	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//193	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//193	0	2	blamed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	2	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//193	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//193	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//193	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//193	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//193	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//193	0	8	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//193	0	9	bad	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//193	0	10	mood	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//193	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//193	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//193	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//193	0	8	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	9	nice	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//193	0	12	patients	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//193	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

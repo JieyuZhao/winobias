@@ -1,16 +1,15 @@
 #begin document (nw/dev_type2/stereotype//301); part 000
 nw/dev_type2/stereotype//301	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	1	house	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	2	keeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	3	saw	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//301	0	5	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	6	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//301	0	7	waving	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	9	walked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//301	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//301	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	2	saw	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	4	construction	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//301	0	5	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	6	waving	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//301	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	8	walked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//301	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

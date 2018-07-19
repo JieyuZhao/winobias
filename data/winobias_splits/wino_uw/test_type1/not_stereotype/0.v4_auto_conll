@@ -2,11 +2,11 @@
 nw/test_type1/not_stereotype//0	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//0	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//0	0	2	reprimanded	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//0	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//0	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//0	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//0	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//0	0	7	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//0	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//0	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//0	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//0	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//0	0	7	made	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/test_type1/not_stereotype//0	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//0	0	9	mistake	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//0	0	10	filing	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -1,11 +1,11 @@
 #begin document (nw/test_type1/not_stereotype//374); part 000
 nw/test_type1/not_stereotype//374	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	2	tried	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//374	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//374	0	2	tried	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/not_stereotype//374	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//374	0	4	convince	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//374	0	6	designer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//374	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//374	0	6	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//374	0	7	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//374	0	8	nobody	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//374	0	9	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -13,12 +13,11 @@ nw/test_type1/not_stereotype//374	0	10	buy	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//374	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//374	0	12	design	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//374	0	13	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	14	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//374	0	15	failed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	16	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	17	pick	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	18	good	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	19	colors	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//374	0	20	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//374	0	14	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//374	0	15	knew	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//374	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//374	0	17	customers	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//374	0	18	well	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//374	0	19	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,16 +1,18 @@
 #begin document (nw/test_type1/stereotype//322); part 000
 nw/test_type1/stereotype//322	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//322	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//322	0	2	troubles	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//322	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//322	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//322	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//322	0	2	troubles	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//322	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//322	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//322	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//322	0	6	lot	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//322	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//322	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//322	0	9	knows	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//322	0	10	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//322	0	11	medicine	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//322	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//322	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//322	0	9	knows	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//322	0	10	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//322	0	11	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//322	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//322	0	13	medicine	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//322	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

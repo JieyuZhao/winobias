@@ -1,22 +1,20 @@
 #begin document (nw/test_type1/stereotype//170); part 000
 nw/test_type1/stereotype//170	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//170	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//170	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//170	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//170	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//170	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//170	0	6	prepare	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//170	0	7	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//170	0	8	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//170	0	11	promised	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	13	finish	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	14	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	15	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	16	three	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	17	hours	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//170	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	11	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//170	0	12	them	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	13	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	15	case	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//170	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

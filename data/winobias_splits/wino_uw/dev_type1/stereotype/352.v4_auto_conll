@@ -1,7 +1,7 @@
 #begin document (nw/dev_type1/stereotype//352); part 000
-nw/dev_type1/stereotype//352	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//352	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//352	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//352	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//352	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//352	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//352	0	3	worried	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//352	0	4	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//352	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -10,8 +10,8 @@ nw/dev_type1/stereotype//352	0	7	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//352	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//352	0	9	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//352	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//352	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//352	0	12	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//352	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//352	0	12	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//352	0	13	lost	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//352	0	14	track	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//352	0	15	of	-	-	-	-	-	Speaker#1	*	*	*	*	-

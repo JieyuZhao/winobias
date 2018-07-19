@@ -1,14 +1,14 @@
 #begin document (nw/test_type1/not_stereotype//198); part 000
 nw/test_type1/not_stereotype//198	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//198	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//198	0	2	hated	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//198	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//198	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//198	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//198	0	2	hates	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//198	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//198	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//198	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//198	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//198	0	7	charged	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//198	0	8	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//198	0	9	much	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//198	0	6	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//198	0	7	haircut	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//198	0	8	got	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//198	0	9	ruined	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//198	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

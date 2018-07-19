@@ -1,15 +1,16 @@
 #begin document (nw/test_type2/stereotype//379); part 000
 nw/test_type2/stereotype//379	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//379	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//379	0	2	treated	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//379	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//379	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//379	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//379	0	6	suggested	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//379	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//379	0	8	change	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//379	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//379	0	10	lifestyle	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//379	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	4	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//379	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//379	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	8	about	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//379	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	10	next	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	11	appointment	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//379	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

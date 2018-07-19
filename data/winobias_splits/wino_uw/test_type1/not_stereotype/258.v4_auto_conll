@@ -1,19 +1,16 @@
 #begin document (nw/test_type1/not_stereotype//258); part 000
 nw/test_type1/not_stereotype//258	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//258	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//258	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//258	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//258	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//258	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//258	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//258	0	6	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//258	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//258	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	11	only	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	12	one	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	13	passing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	14	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//258	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//258	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//258	0	9	mom	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//258	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//258	0	11	sick	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//258	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,16 +1,18 @@
 #begin document (nw/test_type1/stereotype//37); part 000
-nw/test_type1/stereotype//37	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//37	0	1	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//37	0	2	demanded	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	3	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	4	bread	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	7	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//37	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	11	hungry	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//37	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	2	awkwardly	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	3	ran	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	4	into	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//37	0	7	who	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//37	0	8	kept	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	9	raising	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	11	voice	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//37	0	12	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	13	customers	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//37	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

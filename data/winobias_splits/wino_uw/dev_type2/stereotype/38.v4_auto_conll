@@ -2,18 +2,17 @@
 nw/dev_type2/stereotype//38	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//38	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//38	0	2	sold	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//38	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//38	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//38	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	(2
+nw/dev_type2/stereotype//38	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//38	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//38	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//38	0	6	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//38	0	7	computer	-	-	-	-	-	Speaker#1	*	*	*	*	2)
+nw/dev_type2/stereotype//38	0	7	computer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//38	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//38	0	9	taught	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//38	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//38	0	11	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//38	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//38	0	11	how	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type2/stereotype//38	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//38	0	13	use	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//38	0	14	it	-	-	-	-	-	Speaker#1	*	*	*	*	(2)
-nw/dev_type2/stereotype//38	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//38	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

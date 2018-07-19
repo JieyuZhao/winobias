@@ -1,7 +1,7 @@
 #begin document (nw/dev_type1/stereotype//66); part 000
-nw/dev_type1/stereotype//66	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//66	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//66	0	2	welcomed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//66	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//66	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//66	0	2	welcomed	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//66	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//66	0	4	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//66	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -9,8 +9,8 @@ nw/dev_type1/stereotype//66	0	6	this	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//66	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//66	0	8	part	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//66	0	9	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//66	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//66	0	11	job	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//66	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//66	0	11	job	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//66	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

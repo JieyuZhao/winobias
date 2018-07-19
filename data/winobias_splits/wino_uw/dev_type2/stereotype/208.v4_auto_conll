@@ -3,12 +3,12 @@ nw/dev_type2/stereotype//208	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//208	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//208	0	2	card	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//208	0	3	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//208	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//208	0	5	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//208	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//208	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//208	0	5	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//208	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//208	0	7	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//208	0	8	protected	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//208	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//208	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//208	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//208	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

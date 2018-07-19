@@ -1,17 +1,18 @@
 #begin document (nw/test_type2/not_stereotype//373); part 000
 nw/test_type2/not_stereotype//373	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	1	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	2	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	4	impress	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//373	0	6	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//373	0	7	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	8	showed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//373	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	11	bad	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	12	design	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//373	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	1	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	2	knew	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//373	0	5	was	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//373	0	6	dishonest	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	8	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	11	kitchen	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//373	0	12	after	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	13	hours	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//373	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

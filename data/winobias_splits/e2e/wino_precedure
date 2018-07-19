@@ -1,0 +1,19 @@
+python2 minimize.py ../data/winobias_splits/wino_uw/test_type1/stereotype/ ../data/winobias_splits/wino_uw_jsonlines/test_type1/stereotype/
+python2 minimize.py ../data/winobias_splits/wino_uw/test_type1/not_stereotype/ ../data/winobias_splits/wino_uw_jsonlines/test_type1/not_stereotype/
+python2 minimize.py ../data/winobias_splits/wino_uw/test_type2/stereotype/ ../data/winobias_splits/wino_uw_jsonlines/test_type2/stereotype/
+python2 minimize.py ../data/winobias_splits/wino_uw/test_type2/not_stereotype/ ../data/winobias_splits/wino_uw_jsonlines/test_type2/not_stereotype/
+
+python change_expConf.py ../data/winobias_splits/wino_uw_jsonlines/test_type1/stereotype/  data/wino_predictions/final/test_type1/stereotype/ final
+python change_expConf.py ../../data/winobias_splits/wino_uw_jsonlines/test_type1/not_stereotype/ ../../e2e-coref/data/wino_predictions/final/test_type1/not_stereotype/ final
+
+python change_expConf.py ../../data/winobias_splits/wino_uw_jsonlines/test_type1/stereotype/ ../../e2e-coref/data/wino_predictions/debiase_union.anon/test_type1/stereotype/ debiase_union
+python change_expConf.py ../../data/winobias_splits/wino_uw_jsonlines/test_type1/not_stereotype/ ../../e2e-coref/data/wino_predictions/debiase_union.anon/test_type1/not_stereotype/ debiase_union
+
+python change_expConf.py ../data/winobias_splits/wino_uw_jsonlines/test_type2/stereotype/ data/wino_predictions/final/test_type2/stereotype/ final
+python change_expConf.py ../../data/winobias_splits/wino_uw_jsonlines/test_type2/not_stereotype/ ../../e2e-coref/data/wino_predictions/final/test_type2/not_stereotype/ final
+
+python change_expConf.py ../../data/winobias_splits/wino_uw_jsonlines/test_type2/stereotype/ ../../e2e-coref/data/wino_predictions/debiase_union.anon/test_type2/stereotype/ debiase_union
+python change_expConf.py ../../data/winobias_splits/wino_uw_jsonlines/test_type2/not_stereotype/ ../../e2e-coref/data/wino_predictions/debiase_union.anon/test_type2/not_stereotype/ debiase_union
+
+sh convert_to_conll.sh debiase_union.anon
+

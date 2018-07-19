@@ -1,16 +1,17 @@
 #begin document (nw/test_type2/stereotype//219); part 000
 nw/test_type2/stereotype//219	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	1	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//219	0	5	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//219	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	9	hear	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//219	0	11	opinion	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	2	borrowed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	4	tool	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	7	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//219	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//219	0	9	returned	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	10	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//219	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

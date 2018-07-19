@@ -1,18 +1,16 @@
 #begin document (nw/test_type2/stereotype//295); part 000
 nw/test_type2/stereotype//295	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	2	arrived	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	3	early	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	4	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//295	0	6	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//295	0	7	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	8	house	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	10	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	12	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//295	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//295	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	2	interviewed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	4	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//295	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//295	0	6	wrote	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	7	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	8	article	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	9	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//295	0	11	company	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//295	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

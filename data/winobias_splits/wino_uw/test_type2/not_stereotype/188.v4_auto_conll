@@ -1,15 +1,15 @@
 #begin document (nw/test_type2/not_stereotype//188); part 000
 nw/test_type2/not_stereotype//188	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//188	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//188	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//188	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//188	0	3	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//188	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//188	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//188	0	6	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//188	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//188	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//188	0	6	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//188	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type2/not_stereotype//188	0	8	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//188	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//188	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//188	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//188	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/test_type2/not_stereotype//188	0	11	concerns	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//188	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

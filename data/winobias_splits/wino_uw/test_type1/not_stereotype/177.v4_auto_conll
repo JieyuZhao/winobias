@@ -1,14 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//177); part 000
-nw/test_type1/not_stereotype//177	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//177	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//177	0	2	protected	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//177	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//177	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//177	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//177	0	6	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//177	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//177	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//177	0	9	responsibility	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//177	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//177	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//177	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	7	made	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//177	0	8	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	9	mistakes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	10	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	12	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//177	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

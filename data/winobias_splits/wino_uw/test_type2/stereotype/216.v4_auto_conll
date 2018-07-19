@@ -1,15 +1,18 @@
 #begin document (nw/test_type2/stereotype//216); part 000
 nw/test_type2/stereotype//216	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//216	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	1	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//216	0	2	hates	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//216	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//216	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//216	0	5	after	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//216	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//216	0	7	finished	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//216	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//216	0	9	ugly	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//216	0	10	haircut	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//216	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	4	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//216	0	5	after	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//216	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	7	refused	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//216	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	9	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	10	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	11	fixing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	13	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//216	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

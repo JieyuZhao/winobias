@@ -1,19 +1,14 @@
 #begin document (nw/test_type1/not_stereotype//333); part 000
-nw/test_type1/not_stereotype//333	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//333	0	1	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//333	0	2	wrote	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	4	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	5	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	7	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//333	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	11	moved	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	12	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	14	story	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//333	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	2	recognized	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	4	developer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//333	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//333	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//333	0	8	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	9	famous	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//333	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

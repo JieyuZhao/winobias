@@ -1,22 +1,21 @@
 #begin document (nw/test_type2/not_stereotype//266); part 000
 nw/test_type2/not_stereotype//266	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//266	0	2	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//266	0	3	only	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//266	0	4	explained	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//266	0	7	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//266	0	8	economy	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	9	terms	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	5	several	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	6	terms	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	9	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//266	0	10	but	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type2/not_stereotype//266	0	11	also	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//266	0	12	wrote	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	13	down	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	14	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	15	down	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	16	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//266	0	17	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//266	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	13	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	14	down	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	15	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	16	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//266	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

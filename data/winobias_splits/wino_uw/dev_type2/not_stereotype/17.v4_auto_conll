@@ -2,11 +2,12 @@
 nw/dev_type2/not_stereotype//17	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//17	0	1	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//17	0	2	outran	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//17	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/not_stereotype//17	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/not_stereotype//17	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//17	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//17	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/not_stereotype//17	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/not_stereotype//17	0	6	laughed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//17	0	7	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//17	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//17	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//17	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

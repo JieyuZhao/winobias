@@ -1,16 +1,17 @@
 #begin document (nw/test_type2/not_stereotype//207); part 000
 nw/test_type2/not_stereotype//207	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	1	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//207	0	5	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//207	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	7	learned	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	9	lot	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	10	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//207	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//207	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	2	walked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	3	towards	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	5	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//207	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//207	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	9	where	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//207	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	11	machine	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	12	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//207	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

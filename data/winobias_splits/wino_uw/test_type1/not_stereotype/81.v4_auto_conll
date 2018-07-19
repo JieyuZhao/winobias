@@ -1,16 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//81); part 000
-nw/test_type1/not_stereotype//81	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//81	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//81	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//81	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	6	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//81	0	9	has	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	11	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//81	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//81	0	5	that	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//81	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//81	0	8	requested	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	10	answer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	11	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	12	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//81	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

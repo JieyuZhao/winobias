@@ -1,17 +1,21 @@
 #begin document (nw/test_type1/stereotype//57); part 000
-nw/test_type1/stereotype//57	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//57	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//57	0	2	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//57	0	8	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	10	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	12	deposit	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//57	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	3	worried	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	4	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	6	visit	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	7	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	9	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//57	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//57	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	12	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//57	0	13	known	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	14	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	15	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	16	strict	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//57	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

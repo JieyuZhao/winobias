@@ -2,14 +2,13 @@
 nw/dev_type2/stereotype//100	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//100	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//100	0	2	greeted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//100	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//100	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//100	0	5	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//100	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//100	0	7	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//100	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//100	0	9	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//100	0	10	apple	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//100	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//100	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//100	0	4	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//100	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//100	0	6	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//100	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//100	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//100	0	9	apple	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//100	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

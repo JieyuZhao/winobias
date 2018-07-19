@@ -1,17 +1,19 @@
 #begin document (nw/test_type2/stereotype//12); part 000
 nw/test_type2/stereotype//12	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	2	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//12	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//12	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//12	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	10	deposit	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	12	check	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//12	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	1	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	3	back	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	5	check	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	6	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	8	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//12	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//12	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//12	0	13	endorse	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	14	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//12	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

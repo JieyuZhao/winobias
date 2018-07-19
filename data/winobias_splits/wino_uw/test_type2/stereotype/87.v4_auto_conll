@@ -1,17 +1,16 @@
 #begin document (nw/test_type2/stereotype//87); part 000
 nw/test_type2/stereotype//87	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//87	0	5	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//87	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	7	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	8	while	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	10	rejected	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	11	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//87	0	12	product	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//87	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//87	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//87	0	6	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	7	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	8	fixing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	10	car	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//87	0	11	engine	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//87	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

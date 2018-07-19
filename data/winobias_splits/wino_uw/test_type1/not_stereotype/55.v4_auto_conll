@@ -1,23 +1,19 @@
 #begin document (nw/test_type1/not_stereotype//55); part 000
-nw/test_type1/not_stereotype//55	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//55	0	1	ceo	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//55	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	3	worried	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	4	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	6	visit	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	7	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	9	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//55	0	12	failed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	13	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	14	submit	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	15	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	16	paperwork	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	17	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	18	time	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//55	0	19	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	2	took	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//55	0	5	on	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//55	0	6	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	7	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	10	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//55	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	12	see	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	14	city	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//55	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

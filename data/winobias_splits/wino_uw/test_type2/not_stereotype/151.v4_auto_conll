@@ -1,20 +1,15 @@
 #begin document (nw/test_type2/not_stereotype//151); part 000
 nw/test_type2/not_stereotype//151	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//151	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//151	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	6	date	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	7	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	9	ceremony	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	11	reminded	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//151	0	13	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	14	wear	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	15	suits	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//151	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	2	greeted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	4	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//151	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//151	0	6	tried	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	8	sell	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//151	0	10	something	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//151	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

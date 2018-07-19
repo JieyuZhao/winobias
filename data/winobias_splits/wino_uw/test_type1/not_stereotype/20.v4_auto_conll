@@ -1,17 +1,15 @@
 #begin document (nw/test_type1/not_stereotype//20); part 000
 nw/test_type1/not_stereotype//20	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	2	liked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//20	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//20	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//20	0	2	liked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//20	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//20	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//20	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//20	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	8	willing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	10	provide	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	11	after-hour	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	12	appointments	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//20	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//20	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//20	0	7	liked	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//20	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//20	0	9	hairstyles	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//20	0	10	provided	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//20	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

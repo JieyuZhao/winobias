@@ -1,20 +1,20 @@
 #begin document (nw/test_type1/not_stereotype//304); part 000
 nw/test_type1/not_stereotype//304	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	2	took	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//304	0	2	took	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/not_stereotype//304	0	3	down	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//304	0	5	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//304	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	5	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//304	0	6	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//304	0	7	petition	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	8	which	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	11	hope	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	13	improve	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//304	0	14	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//304	0	15	life	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	9	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	11	submitted	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//304	0	12	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	13	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	14	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//304	0	15	superiors	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/test_type1/not_stereotype//304	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

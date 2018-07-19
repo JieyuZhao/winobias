@@ -1,17 +1,25 @@
 #begin document (nw/test_type1/stereotype//189); part 000
 nw/test_type1/stereotype//189	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//189	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//189	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//189	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	9	expert	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	10	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	12	disease	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//189	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//189	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//189	0	3	talking	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	6	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	7	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	9	assignments	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	12	has	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//189	0	13	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	14	concerns	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	15	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	16	overly	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	17	familiar	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	18	behavior	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	19	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	20	students	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//189	0	21	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

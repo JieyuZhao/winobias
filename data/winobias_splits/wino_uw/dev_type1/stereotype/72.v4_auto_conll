@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//72); part 000
-nw/dev_type1/stereotype//72	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//72	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//72	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//72	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//72	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//72	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//72	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//72	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//72	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//72	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//72	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//72	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//72	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//72	0	8	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//72	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

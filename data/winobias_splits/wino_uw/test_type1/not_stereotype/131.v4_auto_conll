@@ -1,14 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//131); part 000
-nw/test_type1/not_stereotype//131	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//131	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//131	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//131	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//131	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//131	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//131	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//131	0	7	broke	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//131	0	8	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//131	0	9	leg	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//131	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	4	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//131	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//131	0	6	way	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	9	toilet	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//131	0	12	knew	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//131	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

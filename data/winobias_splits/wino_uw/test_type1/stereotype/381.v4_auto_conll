@@ -1,22 +1,18 @@
 #begin document (nw/test_type1/stereotype//381); part 000
-nw/test_type1/stereotype//381	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	2	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	4	free	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	5	legal	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	6	advice	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//381	0	9	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//381	0	10	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	11	which	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	12	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//381	0	13	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	14	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	15	dire	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	16	need	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	17	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//381	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	0	Last	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	1	Saturday	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	2	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	5	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	7	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//381	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//381	0	9	discuss	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	11	abnormal	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//381	0	12	immune	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	13	system	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//381	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

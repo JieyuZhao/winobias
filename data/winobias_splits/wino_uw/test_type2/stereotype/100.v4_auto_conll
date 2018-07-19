@@ -1,19 +1,20 @@
 #begin document (nw/test_type2/stereotype//100); part 000
 nw/test_type2/stereotype//100	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	1	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//100	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//100	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//100	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//100	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	5	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//100	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type2/stereotype//100	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//100	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	10	recommend	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	11	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	12	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	13	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	14	read	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//100	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//100	0	10	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	12	table	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	13	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	15	library	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//100	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

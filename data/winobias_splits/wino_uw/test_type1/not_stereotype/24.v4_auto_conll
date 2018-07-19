@@ -1,19 +1,20 @@
 #begin document (nw/test_type1/not_stereotype//24); part 000
 nw/test_type1/not_stereotype//24	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//24	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/not_stereotype//24	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//24	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//24	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//24	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//24	0	8	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	9	key	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	10	information	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	12	resolve	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	14	case	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//24	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	8	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//24	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	10	gather	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	11	additional	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	12	evidence	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	13	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	15	case	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//24	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

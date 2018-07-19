@@ -1,16 +1,21 @@
 #begin document (nw/test_type1/not_stereotype//271); part 000
-nw/test_type1/not_stereotype//271	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//271	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//271	0	2	came	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	5	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//271	0	8	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	10	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	11	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//271	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//271	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//271	0	6	pack	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	7	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	10	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//271	0	11	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	12	many	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	13	things	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	14	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	15	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	16	room	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//271	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document
