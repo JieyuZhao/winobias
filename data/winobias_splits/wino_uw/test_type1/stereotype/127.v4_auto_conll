@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//127	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//127	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//127	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//127	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//127	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//127	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//127	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//127	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//127	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//127	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//127	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//127	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//127	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//127	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//127	0	9	learn	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//127	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-

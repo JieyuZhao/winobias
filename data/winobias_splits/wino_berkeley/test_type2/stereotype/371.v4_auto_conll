@@ -3,12 +3,12 @@
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	1	editor	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	2	never	RB	(ADVP*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	3	respected	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	4	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	5	chief	NN	*))	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	6	and	CC	*	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	4	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	5	chief	NN	*))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	6	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	7	gave	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	8	him	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	9	bad	JJ	(NP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	8	him	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	9	bad	JJ	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	10	work	NN	*)))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//371	0	11	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
 

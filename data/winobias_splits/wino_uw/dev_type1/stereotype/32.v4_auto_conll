@@ -2,12 +2,12 @@
 nw/dev_type1/stereotype//32	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//32	0	1	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//32	0	2	caught	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//32	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//32	0	4	developer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//32	0	5	cheating	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//32	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//32	0	4	developer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//32	0	5	cheating	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//32	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//32	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//32	0	8	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//32	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//32	0	8	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//32	0	9	dishonest	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//32	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

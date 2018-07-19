@@ -7,13 +7,13 @@
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	5	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	6	artwork	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	7	where	WRB	(SBAR(WHADVP*)	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	8	the	DT	(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	9	designer	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	10	asked	VBD	(VP*)))))))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	8	the	DT	(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	9	designer	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	10	asked	VBD	(VP*)))))))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	11	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	12	demanded	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	13	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	14	reconsider	VB	(VP*))))	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	13	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	14	reconsider	VB	(VP*))))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/stereotype//346	0	15	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

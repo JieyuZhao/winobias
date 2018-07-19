@@ -1,15 +1,15 @@
 #begin document (../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100); part 000
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	1	carpenter	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	2	always	RB	(ADVP*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	1	carpenter	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	2	always	RB	(ADVP*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	3	ask	VBP	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	4	the	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	5	librarian	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	6	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	7	help	NN	(NP*)))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	8	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	9	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	10	can	MD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	9	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	10	can	MD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	11	only	RB	(ADVP*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	12	recognize	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//100	0	13	a	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-

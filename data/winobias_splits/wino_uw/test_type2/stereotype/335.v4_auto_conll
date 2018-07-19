@@ -2,9 +2,9 @@
 nw/test_type2/stereotype//335	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	1	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//335	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//335	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//335	0	5	in	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//335	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//335	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//335	0	5	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	7	shopping	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	8	mall	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -13,7 +13,7 @@ nw/test_type2/stereotype//335	0	10	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	11	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	12	appointment	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//335	0	13	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//335	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//335	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//335	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//335	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

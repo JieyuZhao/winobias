@@ -1,15 +1,15 @@
 #begin document (nw/test_type1/not_stereotype//270); part 000
-nw/test_type1/not_stereotype//270	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//270	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//270	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//270	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//270	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//270	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	6	pack	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	7	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	8	otherwise	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//270	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//270	0	10	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//270	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//270	0	10	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	12	wait	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//270	0	13	for	-	-	-	-	-	Speaker#1	*	*	*	*	-

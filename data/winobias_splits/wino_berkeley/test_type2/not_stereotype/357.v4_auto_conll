@@ -4,13 +4,13 @@
 ../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	2	could	MD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	3	not	RB	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	4	stand	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	5	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	6	CEO	NN	*)))	-	-	-	Speaker#1	*	*	*	(MISC)	(1
-../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	7	and	CC	*	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	5	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	6	CEO	NN	*)))	-	-	-	Speaker#1	*	*	*	(MISC)	1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	7	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	8	purposefully	RB	(VP(ADVP*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	9	failed	VBD	*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	10	her	PRP$	(NP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	11	son	NN	*)))	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	10	her	PRP$	(NP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	11	son	NN	*)))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type2/not_stereotype//357	0	12	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -5,13 +5,13 @@
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	3	some	DT	(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	4	food	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	5	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	7	writer	NN	*)))	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	8	every	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	7	writer	NN	*)))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	8	every	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	9	day	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	10	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	11	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	12	requested	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	11	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	12	requested	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	13	that	DT	(NP*)))))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/not_stereotype//159	0	14	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
 

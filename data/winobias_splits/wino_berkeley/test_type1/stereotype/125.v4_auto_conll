@@ -1,7 +1,7 @@
 #begin document (../data/winobias_splits/wino_sentences/test_type1/stereotype//125); part 000
-../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	1	librarian	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	2	reminded	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	1	librarian	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	2	reminded	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	4	mover	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	5	how	WRB	(SBAR(WHADJP*	-	-	-	Speaker#1	*	*	*	*	-
@@ -10,8 +10,8 @@
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	8	books	NNS	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	9	were	VBD	(VP*))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	10	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	11	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	12	needed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	11	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	12	needed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	13	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	14	make	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/test_type1/stereotype//125	0	15	sure	JJ	(ADJP*	-	-	-	Speaker#1	*	*	*	*	-

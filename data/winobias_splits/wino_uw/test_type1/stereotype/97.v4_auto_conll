@@ -5,11 +5,11 @@ nw/test_type1/stereotype//97	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//97	0	3	said	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//97	0	4	sorry	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//97	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//97	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//97	0	7	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//97	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//97	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//97	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//97	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//97	0	7	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//97	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//97	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//97	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//97	0	11	offended	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//97	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

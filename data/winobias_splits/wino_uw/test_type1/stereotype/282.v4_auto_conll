@@ -1,19 +1,19 @@
 #begin document (nw/test_type1/stereotype//282); part 000
-nw/test_type1/stereotype//282	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//282	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//282	0	2	goes	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//282	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//282	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//282	0	2	goes	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	5	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//282	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//282	0	8	needs	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//282	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//282	0	8	needs	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	10	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	11	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	12	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//282	0	13	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//282	0	14	interview	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//282	0	13	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//282	0	14	interview	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//282	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

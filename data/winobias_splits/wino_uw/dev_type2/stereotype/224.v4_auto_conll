@@ -2,12 +2,12 @@
 nw/dev_type2/stereotype//224	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//224	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//224	0	2	heard	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//224	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//224	0	4	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//224	0	5	screaming	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//224	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//224	0	4	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//224	0	5	screaming	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//224	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//224	0	7	examined	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//224	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//224	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//224	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//224	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

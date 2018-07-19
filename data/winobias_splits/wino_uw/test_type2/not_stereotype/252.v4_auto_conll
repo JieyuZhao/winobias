@@ -5,14 +5,14 @@ nw/test_type2/not_stereotype//252	0	2	borrowed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//252	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//252	0	4	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//252	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//252	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//252	0	7	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//252	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//252	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//252	0	7	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//252	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//252	0	9	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//252	0	10	returned	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//252	0	11	anything	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//252	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//252	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//252	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//252	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//252	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

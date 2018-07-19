@@ -4,15 +4,15 @@ nw/test_type2/stereotype//279	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	3	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	4	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//279	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//279	0	6	chief	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//279	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//279	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//279	0	6	chief	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//279	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	8	will	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	9	receive	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	11	payment	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//279	0	12	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//279	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//279	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//279	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//279	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

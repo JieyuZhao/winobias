@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//344); part 000
-nw/dev_type1/stereotype//344	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//344	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//344	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//344	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//344	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//344	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//344	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//344	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//344	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//344	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//344	0	7	fired	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//344	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//344	0	7	fired	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//344	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//344	0	9	last	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//344	0	10	one	-	-	-	-	-	Speaker#1	*	*	*	*	-

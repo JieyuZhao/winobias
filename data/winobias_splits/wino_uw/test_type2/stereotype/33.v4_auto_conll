@@ -5,12 +5,12 @@ nw/test_type2/stereotype//33	0	2	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//33	0	3	eye	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//33	0	4	contact	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//33	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//33	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//33	0	7	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//33	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//33	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//33	0	7	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//33	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//33	0	9	smiled	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//33	0	10	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//33	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//33	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//33	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//33	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

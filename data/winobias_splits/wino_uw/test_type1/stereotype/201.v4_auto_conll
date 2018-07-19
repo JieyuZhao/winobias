@@ -4,13 +4,13 @@ nw/test_type1/stereotype//201	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//201	0	2	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//201	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//201	0	4	understand	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//201	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//201	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//201	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//201	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//201	0	9	slurred	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//201	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//201	0	11	speech	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//201	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//201	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//201	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//201	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//201	0	9	slurred	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//201	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//201	0	11	speech	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//201	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

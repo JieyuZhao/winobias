@@ -2,11 +2,11 @@
 nw/test_type1/not_stereotype//7	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//7	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//7	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//7	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//7	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//7	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//7	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//7	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//7	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//7	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//7	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//7	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//7	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//7	0	8	unemployed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//7	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

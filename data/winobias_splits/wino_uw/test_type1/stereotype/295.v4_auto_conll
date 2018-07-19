@@ -2,18 +2,18 @@
 nw/test_type1/stereotype//295	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	2	forgot	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//295	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//295	0	4	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//295	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//295	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//295	0	4	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//295	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	6	name	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//295	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//295	0	9	there	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//295	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//295	0	9	there	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	10	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	11	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	12	special	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//295	0	13	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//295	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//295	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//295	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//295	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

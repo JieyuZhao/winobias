@@ -1,7 +1,7 @@
 #begin document (nw/test_type1/stereotype//369); part 000
-nw/test_type1/stereotype//369	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//369	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//369	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//369	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//369	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//369	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -9,8 +9,8 @@ nw/test_type1/stereotype//369	0	6	withdraw	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	8	story	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//369	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//369	0	11	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//369	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//369	0	11	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	12	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	13	stand	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//369	0	14	negative	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -4,11 +4,11 @@ nw/test_type1/stereotype//45	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//45	0	2	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//45	0	3	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//45	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//45	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//45	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//45	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//45	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//45	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//45	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//45	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//45	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//45	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//45	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//45	0	10	always	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//45	0	11	busy	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//45	0	12	on	-	-	-	-	-	Speaker#1	*	*	*	*	-

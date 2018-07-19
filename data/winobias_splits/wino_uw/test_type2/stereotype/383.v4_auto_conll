@@ -4,12 +4,12 @@ nw/test_type2/stereotype//383	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//383	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//383	0	3	looking	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//383	0	4	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//383	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//383	0	6	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//383	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//383	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//383	0	6	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//383	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//383	0	8	ask	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//383	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//383	0	10	about	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//383	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//383	0	10	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//383	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//383	0	12	missing	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//383	0	13	wallet	-	-	-	-	-	Speaker#1	*	*	*	*	-

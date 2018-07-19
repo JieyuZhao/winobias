@@ -2,12 +2,12 @@
 nw/test_type2/stereotype//1	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//1	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//1	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//1	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//1	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//1	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//1	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//1	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//1	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//1	0	6	wished	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//1	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//1	0	8	well	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//1	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//1	0	8	well	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//1	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

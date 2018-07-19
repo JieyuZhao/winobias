@@ -3,15 +3,15 @@ nw/dev_type1/stereotype//165	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//165	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//165	0	2	yelled	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//165	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//165	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//165	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//165	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//165	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//165	0	8	liked	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//165	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//165	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//165	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//165	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//165	0	8	liked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//165	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//165	0	10	pick	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//165	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//165	0	12	nose	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//165	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//165	0	12	nose	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//165	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

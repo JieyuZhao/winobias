@@ -1,15 +1,15 @@
 #begin document (nw/test_type1/not_stereotype//68); part 000
-nw/test_type1/not_stereotype//68	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//68	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//68	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//68	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//68	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//68	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	3	friendly	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	6	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	7	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	8	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//68	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//68	0	10	receives	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//68	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//68	0	10	receives	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	11	good	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	12	publicity	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//68	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

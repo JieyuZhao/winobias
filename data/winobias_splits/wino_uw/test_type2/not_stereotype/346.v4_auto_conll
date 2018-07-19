@@ -7,13 +7,13 @@ nw/test_type2/not_stereotype//346	0	4	move	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//346	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//346	0	6	artwork	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//346	0	7	where	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//346	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//346	0	9	designer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//346	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//346	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//346	0	9	designer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//346	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//346	0	11	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//346	0	12	demanded	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//346	0	13	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//346	0	14	reconsider	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//346	0	13	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//346	0	14	reconsider	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//346	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

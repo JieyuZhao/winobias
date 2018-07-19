@@ -2,11 +2,11 @@
 nw/test_type1/not_stereotype//245	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//245	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//245	0	2	questioned	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//245	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//245	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//245	0	5	as	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//245	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//245	0	7	claimed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//245	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//245	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//245	0	5	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//245	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//245	0	7	claimed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//245	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//245	0	9	know	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//245	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-

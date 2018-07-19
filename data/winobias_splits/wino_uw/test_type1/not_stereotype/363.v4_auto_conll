@@ -4,16 +4,16 @@ nw/test_type1/not_stereotype//363	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	2	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	4	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//363	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//363	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//363	0	7	with	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//363	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//363	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//363	0	7	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	9	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	11	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	12	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//363	0	13	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//363	0	14	job	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//363	0	13	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//363	0	14	job	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//363	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

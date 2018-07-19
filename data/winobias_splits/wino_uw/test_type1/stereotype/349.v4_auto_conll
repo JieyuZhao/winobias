@@ -5,11 +5,11 @@ nw/test_type1/stereotype//349	0	2	picked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//349	0	3	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//349	0	4	bread	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//349	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//349	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//349	0	7	baker	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//349	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//349	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//349	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//349	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//349	0	7	baker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//349	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//349	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//349	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//349	0	11	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//349	0	12	frail	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//349	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -4,11 +4,11 @@ nw/test_type2/stereotype//224	0	1	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//224	0	2	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//224	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//224	0	4	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//224	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//224	0	6	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//224	0	7	but	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//224	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//224	0	9	refused	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//224	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//224	0	6	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//224	0	7	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//224	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//224	0	9	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//224	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

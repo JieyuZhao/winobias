@@ -1,12 +1,12 @@
 #begin document (nw/test_type1/stereotype//377); part 000
-nw/test_type1/stereotype//377	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//377	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//377	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//377	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//377	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//377	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//377	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//377	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//377	0	5	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//377	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//377	0	7	would	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//377	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//377	0	7	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//377	0	8	arrive	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//377	0	9	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//377	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-

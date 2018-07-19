@@ -1,7 +1,7 @@
 #begin document (nw/dev_type1/not_stereotype//316); part 000
-nw/dev_type1/not_stereotype//316	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//316	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/not_stereotype//316	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/not_stereotype//316	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//316	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/not_stereotype//316	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	3	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	4	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	5	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -10,8 +10,8 @@ nw/dev_type1/not_stereotype//316	0	7	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	9	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	10	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//316	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//316	0	12	did	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/not_stereotype//316	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/not_stereotype//316	0	12	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	13	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	14	specify	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//316	0	15	a	-	-	-	-	-	Speaker#1	*	*	*	*	-

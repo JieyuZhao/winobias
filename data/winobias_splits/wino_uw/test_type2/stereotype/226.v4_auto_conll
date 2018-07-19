@@ -4,15 +4,15 @@ nw/test_type2/stereotype//226	0	1	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	2	got	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	3	angry	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//226	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//226	0	6	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//226	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//226	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//226	0	6	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//226	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	8	complained	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	11	boss	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//226	0	12	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//226	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//226	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//226	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//226	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

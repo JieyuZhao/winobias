@@ -2,12 +2,12 @@
 nw/test_type2/not_stereotype//78	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//78	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//78	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//78	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//78	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//78	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//78	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//78	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//78	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//78	0	6	learned	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//78	0	7	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//78	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//78	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//78	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//78	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -4,12 +4,12 @@ nw/test_type1/stereotype//69	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//69	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//69	0	3	friendly	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//69	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//69	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//69	0	6	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//69	0	7	so	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//69	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//69	0	6	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//69	0	7	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//69	0	8	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//69	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//69	0	10	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//69	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//69	0	10	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//69	0	11	eventually	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//69	0	12	write	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//69	0	13	favorably	-	-	-	-	-	Speaker#1	*	*	*	*	-

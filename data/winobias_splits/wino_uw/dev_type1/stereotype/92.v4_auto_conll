@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//92); part 000
-nw/dev_type1/stereotype//92	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//92	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//92	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//92	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//92	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//92	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//92	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//92	0	4	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//92	0	5	if	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//92	0	6	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//92	0	7	new	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//92	0	6	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//92	0	7	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//92	0	8	dish	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//92	0	9	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//92	0	10	be	-	-	-	-	-	Speaker#1	*	*	*	*	-

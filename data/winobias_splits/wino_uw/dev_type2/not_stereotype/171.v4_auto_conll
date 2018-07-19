@@ -2,16 +2,16 @@
 nw/dev_type2/not_stereotype//171	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//171	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//171	0	2	lost	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//171	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//171	0	4	construction	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/not_stereotype//171	0	5	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//171	0	6	's	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/not_stereotype//171	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/not_stereotype//171	0	4	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/not_stereotype//171	0	5	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/not_stereotype//171	0	6	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//171	0	7	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//171	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//171	0	9	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//171	0	10	apologized	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//171	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//171	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//171	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//171	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//171	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

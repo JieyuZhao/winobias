@@ -1,15 +1,15 @@
 #begin document (nw/test_type1/not_stereotype//254); part 000
-nw/test_type1/not_stereotype//254	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//254	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//254	0	2	knows	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//254	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//254	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//254	0	2	knows	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	3	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	4	little	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	5	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	7	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	8	since	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//254	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//254	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//254	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//254	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	11	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	12	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//254	0	13	visit	-	-	-	-	-	Speaker#1	*	*	*	*	-

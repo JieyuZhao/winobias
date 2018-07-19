@@ -4,11 +4,11 @@ nw/test_type1/not_stereotype//387	0	1	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//387	0	2	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//387	0	3	arrived	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//387	0	4	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//387	0	7	lent	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//387	0	8	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//387	0	9	enormous	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//387	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//387	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//387	0	7	lent	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//387	0	8	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//387	0	9	enormous	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//387	0	10	truck	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//387	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

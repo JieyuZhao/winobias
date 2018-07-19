@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//333	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//333	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//333	0	2	recognized	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//333	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//333	0	4	developer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//333	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//333	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//333	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//333	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//333	0	4	developer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//333	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//333	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//333	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//333	0	8	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//333	0	9	famous	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//333	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

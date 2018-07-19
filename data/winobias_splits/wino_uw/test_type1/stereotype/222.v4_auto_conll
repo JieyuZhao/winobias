@@ -1,11 +1,11 @@
 #begin document (nw/test_type1/stereotype//222); part 000
-nw/test_type1/stereotype//222	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//222	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//222	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//222	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//222	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//222	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//222	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//222	0	4	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//222	0	5	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//222	0	6	does	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//222	0	5	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//222	0	6	does	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//222	0	7	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//222	0	8	want	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//222	0	9	cheese	-	-	-	-	-	Speaker#1	*	*	*	*	-

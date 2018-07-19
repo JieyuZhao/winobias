@@ -3,9 +3,9 @@ nw/test_type1/not_stereotype//341	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	2	competed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//341	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//341	0	5	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//341	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//341	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//341	0	5	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//341	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	8	same	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	9	job	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -13,8 +13,8 @@ nw/test_type1/not_stereotype//341	0	10	despite	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	12	fact	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	13	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//341	0	14	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//341	0	15	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//341	0	14	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//341	0	15	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	16	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	17	qualified	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//341	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

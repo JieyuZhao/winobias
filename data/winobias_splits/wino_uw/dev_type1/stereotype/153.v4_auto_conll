@@ -1,13 +1,13 @@
 #begin document (nw/dev_type1/stereotype//153); part 000
-nw/dev_type1/stereotype//153	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//153	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//153	0	2	laughed	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//153	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//153	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//153	0	2	laughed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//153	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//153	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//153	0	5	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//153	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//153	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//153	0	8	heard	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//153	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//153	0	8	heard	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//153	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//153	0	10	joke	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//153	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

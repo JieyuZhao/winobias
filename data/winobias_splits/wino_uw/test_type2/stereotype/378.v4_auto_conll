@@ -7,12 +7,12 @@ nw/test_type2/stereotype//378	0	4	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//378	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//378	0	6	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//378	0	7	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//378	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//378	0	9	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//378	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//378	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//378	0	9	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//378	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//378	0	11	ranted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//378	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//378	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//378	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//378	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//378	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -2,14 +2,14 @@
 nw/test_type2/not_stereotype//387	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//387	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//387	0	2	thought	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//387	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//387	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//387	0	5	needed	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//387	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//387	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//387	0	5	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//387	0	6	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//387	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//387	0	8	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//387	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//387	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//387	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//387	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//387	0	11	hand	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//387	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

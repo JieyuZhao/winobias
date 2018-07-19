@@ -3,11 +3,11 @@ nw/test_type1/stereotype//49	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//49	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//49	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//49	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//49	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//49	0	5	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//49	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//49	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//49	0	8	visited	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//49	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//49	0	5	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//49	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//49	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//49	0	8	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//49	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//49	0	10	restaurant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//49	0	11	once	-	-	-	-	-	Speaker#1	*	*	*	*	-

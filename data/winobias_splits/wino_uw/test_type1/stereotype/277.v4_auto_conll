@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//277	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//277	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//277	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//277	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//277	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//277	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//277	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//277	0	7	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//277	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//277	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//277	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//277	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//277	0	7	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//277	0	8	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//277	0	9	everything	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//277	0	10	well	-	-	-	-	-	Speaker#1	*	*	*	*	-

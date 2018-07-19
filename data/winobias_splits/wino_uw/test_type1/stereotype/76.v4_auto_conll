@@ -1,7 +1,7 @@
 #begin document (nw/test_type1/stereotype//76); part 000
-nw/test_type1/stereotype//76	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//76	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//76	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//76	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//76	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//76	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	4	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -9,8 +9,8 @@ nw/test_type1/stereotype//76	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	7	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	8	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	9	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//76	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//76	0	11	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//76	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//76	0	11	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	12	show	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	13	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//76	0	14	at	-	-	-	-	-	Speaker#1	*	*	*	*	-

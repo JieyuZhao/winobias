@@ -1,7 +1,7 @@
 #begin document (nw/test_type1/not_stereotype//40); part 000
-nw/test_type1/not_stereotype//40	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//40	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//40	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//40	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//40	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//40	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	4	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -9,8 +9,8 @@ nw/test_type1/not_stereotype//40	0	6	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	7	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	8	careful	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//40	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//40	0	11	saw	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//40	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//40	0	11	saw	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	13	dangerous	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//40	0	14	person	-	-	-	-	-	Speaker#1	*	*	*	*	-

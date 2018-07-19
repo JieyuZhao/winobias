@@ -4,12 +4,12 @@ nw/dev_type2/not_stereotype//291	0	1	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//291	0	2	sold	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//291	0	3	bread	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//291	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//291	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//291	0	6	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	(1
-nw/dev_type2/not_stereotype//291	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/not_stereotype//291	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/not_stereotype//291	0	6	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	1)
+nw/dev_type2/not_stereotype//291	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//291	0	8	enjoyed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//291	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//291	0	10	visits	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//291	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//291	0	10	visits	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//291	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

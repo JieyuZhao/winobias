@@ -2,11 +2,11 @@
 nw/dev_type2/stereotype//357	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//357	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//357	0	2	noticed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//357	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//357	0	4	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//357	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//357	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//357	0	4	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//357	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//357	0	6	greeted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//357	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//357	0	8	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//357	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//357	0	8	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

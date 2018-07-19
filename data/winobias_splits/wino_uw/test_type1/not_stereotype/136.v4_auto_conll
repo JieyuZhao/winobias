@@ -1,12 +1,12 @@
 #begin document (nw/test_type1/not_stereotype//136); part 000
-nw/test_type1/not_stereotype//136	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//136	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//136	0	2	criticized	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//136	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//136	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//136	0	2	criticized	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//136	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//136	0	4	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//136	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//136	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//136	0	7	gets	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//136	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//136	0	7	gets	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//136	0	8	criticized	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//136	0	9	everyone	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//136	0	10	not	-	-	-	-	-	Speaker#1	*	*	*	*	-

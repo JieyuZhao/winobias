@@ -4,14 +4,14 @@ nw/test_type1/stereotype//237	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	3	talking	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//237	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//237	0	6	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//237	0	7	about	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//237	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//237	0	6	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//237	0	7	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	9	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	10	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//237	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//237	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//237	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//237	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	13	making	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//237	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

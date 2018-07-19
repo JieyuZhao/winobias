@@ -5,11 +5,11 @@ nw/test_type1/not_stereotype//255	0	2	knows	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//255	0	3	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//255	0	4	little	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//255	0	5	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//255	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//255	0	7	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//255	0	8	since	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//255	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//255	0	10	does	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//255	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//255	0	7	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//255	0	8	since	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//255	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//255	0	10	does	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//255	0	11	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//255	0	12	teach	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//255	0	13	in	-	-	-	-	-	Speaker#1	*	*	*	*	-

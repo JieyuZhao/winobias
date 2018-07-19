@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//75	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//75	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//75	0	2	admonished	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//75	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//75	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//75	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//75	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//75	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//75	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//75	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//75	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//75	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//75	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//75	0	8	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//75	0	9	using	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//75	0	10	protective	-	-	-	-	-	Speaker#1	*	*	*	*	-

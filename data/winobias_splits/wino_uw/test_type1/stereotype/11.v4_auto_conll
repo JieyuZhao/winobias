@@ -5,11 +5,11 @@ nw/test_type1/stereotype//11	0	2	struck	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//11	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//11	0	4	friendship	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//11	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//11	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//11	0	7	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//11	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//11	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//11	0	10	rated	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//11	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//11	0	7	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//11	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//11	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//11	0	10	rated	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//11	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//11	0	12	restaurant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//11	0	13	favorably	-	-	-	-	-	Speaker#1	*	*	*	*	-

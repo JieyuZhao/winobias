@@ -4,13 +4,13 @@ nw/test_type1/stereotype//215	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//215	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//215	0	3	discussing	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//215	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//215	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//215	0	6	writer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//215	0	7	about	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//215	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//215	0	6	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//215	0	7	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//215	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//215	0	9	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//215	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//215	0	11	will	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//215	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//215	0	11	will	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//215	0	12	write	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//215	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

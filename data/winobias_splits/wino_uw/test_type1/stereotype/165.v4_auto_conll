@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//165	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//165	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//165	0	2	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//165	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//165	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//165	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//165	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//165	0	7	recommend	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//165	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//165	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//165	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//165	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//165	0	7	recommend	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//165	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//165	0	9	boss	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//165	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-

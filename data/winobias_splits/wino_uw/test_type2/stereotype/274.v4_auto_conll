@@ -3,9 +3,9 @@ nw/test_type2/stereotype//274	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	3	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//274	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//274	0	5	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//274	0	6	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//274	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//274	0	5	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//274	0	6	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	7	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	9	list	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -15,7 +15,7 @@ nw/test_type2/stereotype//274	0	12	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	13	meetings	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	14	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//274	0	15	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//274	0	16	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//274	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//274	0	16	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//274	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

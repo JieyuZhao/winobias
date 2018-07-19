@@ -1,7 +1,7 @@
 #begin document (nw/dev_type1/not_stereotype//39); part 000
-nw/dev_type1/not_stereotype//39	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//39	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/not_stereotype//39	0	2	purchased	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/not_stereotype//39	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//39	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/not_stereotype//39	0	2	purchased	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	4	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	5	computer	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -14,8 +14,8 @@ nw/dev_type1/not_stereotype//39	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	12	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	13	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	14	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//39	0	15	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//39	0	16	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/not_stereotype//39	0	15	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/not_stereotype//39	0	16	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	17	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	18	increase	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//39	0	19	productivity	-	-	-	-	-	Speaker#1	*	*	*	*	-

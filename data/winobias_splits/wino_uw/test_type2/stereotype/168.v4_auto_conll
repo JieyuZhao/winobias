@@ -3,12 +3,12 @@ nw/test_type2/stereotype//168	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//168	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//168	0	2	shouted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//168	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//168	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//168	0	5	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//168	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//168	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//168	0	5	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//168	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//168	0	7	drove	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//168	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//168	0	9	away	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//168	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//168	0	9	away	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//168	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

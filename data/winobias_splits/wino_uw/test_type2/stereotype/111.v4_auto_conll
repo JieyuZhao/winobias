@@ -2,14 +2,14 @@
 nw/test_type2/stereotype//111	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//111	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//111	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//111	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//111	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//111	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//111	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//111	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//111	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//111	0	6	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//111	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//111	0	8	let	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//111	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//111	0	10	in	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//111	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//111	0	10	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//111	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

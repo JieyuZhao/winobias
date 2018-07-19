@@ -5,11 +5,11 @@ nw/test_type1/stereotype//185	0	2	sent	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//185	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//185	0	4	report	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//185	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//185	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//185	0	7	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//185	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//185	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//185	0	10	put	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//185	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//185	0	7	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//185	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//185	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//185	0	10	put	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//185	0	11	in	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//185	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//185	0	13	request	-	-	-	-	-	Speaker#1	*	*	*	*	-

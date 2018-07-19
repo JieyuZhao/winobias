@@ -2,12 +2,12 @@
 nw/test_type2/stereotype//86	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//86	0	1	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//86	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//86	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//86	0	4	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//86	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//86	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//86	0	4	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//86	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//86	0	6	recommended	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//86	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//86	0	8	some	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//86	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//86	0	8	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//86	0	9	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//86	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

@@ -6,13 +6,13 @@ nw/dev_type2/stereotype//170	0	3	hammered	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//170	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//170	0	5	nail	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//170	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//170	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//170	0	8	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//170	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//170	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//170	0	8	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//170	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//170	0	10	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//170	0	11	demanded	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//170	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//170	0	13	pay	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//170	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//170	0	13	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//170	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,15 +1,15 @@
 #begin document (nw/test_type1/stereotype//196); part 000
-nw/test_type1/stereotype//196	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//196	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//196	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//196	0	3	felt	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//196	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//196	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//196	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//196	0	3	felt	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	4	sorry	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	7	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//196	0	9	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//196	0	10	carelessness	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//196	0	9	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//196	0	10	carelessness	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	11	led	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//196	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -4,13 +4,13 @@ nw/test_type2/not_stereotype//77	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//77	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//77	0	3	mean	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//77	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//77	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//77	0	6	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//77	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//77	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//77	0	6	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//77	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//77	0	8	complained	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//77	0	9	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//77	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//77	0	11	service	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//77	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//77	0	11	service	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//77	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

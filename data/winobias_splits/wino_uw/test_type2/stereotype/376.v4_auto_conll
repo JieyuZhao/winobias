@@ -5,13 +5,13 @@ nw/test_type2/stereotype//376	0	2	saw	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//376	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//376	0	4	video	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//376	0	5	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//376	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//376	0	7	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//376	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//376	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//376	0	7	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//376	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//376	0	9	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//376	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//376	0	11	interview	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//376	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//376	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//376	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//376	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

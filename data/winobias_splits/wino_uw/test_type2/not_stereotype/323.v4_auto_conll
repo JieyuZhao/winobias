@@ -2,17 +2,17 @@
 nw/test_type2/not_stereotype//323	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//323	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//323	0	2	woke	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//323	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//323	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//323	0	5	up	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//323	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//323	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//323	0	5	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//323	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//323	0	7	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//323	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//323	0	9	someone	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//323	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//323	0	9	someone	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//323	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//323	0	11	calling	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//323	0	12	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//323	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//323	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//323	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//323	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

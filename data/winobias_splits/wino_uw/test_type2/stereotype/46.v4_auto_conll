@@ -5,13 +5,13 @@ nw/test_type2/stereotype//46	0	2	loved	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//46	0	3	getting	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//46	0	4	haircuts	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//46	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//46	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//46	0	7	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//46	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//46	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//46	0	7	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//46	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//46	0	9	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//46	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//46	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//46	0	12	often	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//46	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//46	0	12	often	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//46	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

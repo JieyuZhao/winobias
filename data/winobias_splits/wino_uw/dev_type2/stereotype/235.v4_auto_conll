@@ -7,13 +7,13 @@ nw/dev_type2/stereotype//235	0	4	hide	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//235	0	5	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//235	0	6	behavior	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//235	0	7	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//235	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//235	0	9	manager	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//235	0	10	but	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//235	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//235	0	9	manager	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//235	0	10	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//235	0	11	failed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//235	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//235	0	13	trick	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//235	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//235	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//235	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//235	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

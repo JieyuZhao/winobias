@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//154	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//154	0	1	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//154	0	2	contacted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//154	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//154	0	4	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//154	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//154	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//154	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//154	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//154	0	4	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//154	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//154	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//154	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//154	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//154	0	9	expert	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//154	0	10	in	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -4,11 +4,11 @@ nw/test_type1/stereotype//313	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//313	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//313	0	3	waiting	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//313	0	4	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//313	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//313	0	6	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//313	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//313	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//313	0	9	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//313	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//313	0	6	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//313	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//313	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//313	0	9	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//313	0	10	clean	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//313	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//313	0	12	wounds	-	-	-	-	-	Speaker#1	*	*	*	*	-

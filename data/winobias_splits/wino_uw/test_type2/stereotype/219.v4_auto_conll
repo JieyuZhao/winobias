@@ -5,13 +5,13 @@ nw/test_type2/stereotype//219	0	2	borrowed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//219	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//219	0	4	tool	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//219	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	7	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//219	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//219	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//219	0	7	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//219	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//219	0	9	returned	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//219	0	10	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//219	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//219	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//219	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//219	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

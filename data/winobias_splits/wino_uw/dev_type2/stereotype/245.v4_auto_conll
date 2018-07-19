@@ -2,15 +2,15 @@
 nw/dev_type2/stereotype//245	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//245	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//245	0	2	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//245	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//245	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//245	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//245	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//245	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//245	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//245	0	6	create	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//245	0	7	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//245	0	8	chair	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//245	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//245	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//245	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//245	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//245	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//245	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

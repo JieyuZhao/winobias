@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//133	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//133	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//133	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//133	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//133	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//133	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//133	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//133	0	7	knew	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//133	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//133	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//133	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//133	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//133	0	7	knew	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//133	0	8	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//133	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//133	0	10	deal	-	-	-	-	-	Speaker#1	*	*	*	*	-

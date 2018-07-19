@@ -4,15 +4,15 @@ nw/test_type2/stereotype//313	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	4	send	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//313	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//313	0	6	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//313	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//313	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//313	0	6	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//313	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	9	hospital	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	11	kept	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//313	0	12	comforting	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//313	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//313	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//313	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//313	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

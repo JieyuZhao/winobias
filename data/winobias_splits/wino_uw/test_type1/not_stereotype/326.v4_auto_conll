@@ -1,14 +1,14 @@
 #begin document (nw/test_type1/not_stereotype//326); part 000
-nw/test_type1/not_stereotype//326	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//326	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//326	0	2	brought	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//326	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//326	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//326	0	2	brought	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	4	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	6	ideas	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	7	which	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//326	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//326	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//326	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//326	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	10	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	11	proud	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//326	0	12	of	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -4,12 +4,12 @@ nw/test_type2/not_stereotype//359	0	1	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//359	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//359	0	3	clumsy	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//359	0	4	around	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//359	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//359	0	6	physician	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//359	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//359	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//359	0	6	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//359	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//359	0	8	nearly	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//359	0	9	cut	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//359	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//359	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//359	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//359	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

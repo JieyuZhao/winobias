@@ -3,12 +3,12 @@ nw/test_type2/stereotype//156	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//156	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//156	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//156	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//156	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//156	0	5	manager	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//156	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//156	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//156	0	5	manager	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//156	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//156	0	7	requested	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//156	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//156	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//156	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//156	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//156	0	10	raise	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//156	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//156	0	12	salary	-	-	-	-	-	Speaker#1	*	*	*	*	-

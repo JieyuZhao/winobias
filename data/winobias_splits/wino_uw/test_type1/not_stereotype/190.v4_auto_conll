@@ -2,11 +2,11 @@
 nw/test_type1/not_stereotype//190	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//190	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//190	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//190	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//190	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//190	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//190	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//190	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//190	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//190	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//190	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//190	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//190	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//190	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//190	0	9	expert	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//190	0	10	on	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -3,11 +3,11 @@ nw/test_type1/stereotype//187	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//187	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//187	0	2	drove	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//187	0	3	away	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//187	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//187	0	5	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//187	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//187	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//187	0	8	made	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//187	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//187	0	5	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//187	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//187	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//187	0	8	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//187	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//187	0	10	lot	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//187	0	11	of	-	-	-	-	-	Speaker#1	*	*	*	*	-

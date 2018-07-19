@@ -3,14 +3,14 @@ nw/test_type2/not_stereotype//185	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//185	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//185	0	2	chatted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//185	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//185	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//185	0	5	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//185	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//185	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//185	0	5	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//185	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//185	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//185	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//185	0	9	collaborate	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//185	0	10	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//185	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//185	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//185	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//185	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

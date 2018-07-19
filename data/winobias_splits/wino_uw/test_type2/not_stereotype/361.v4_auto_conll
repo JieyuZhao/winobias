@@ -2,16 +2,16 @@
 nw/test_type2/not_stereotype//361	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	1	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	2	thought	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//361	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//361	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//361	0	5	could	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//361	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//361	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//361	0	5	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	6	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	7	good	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	9	sewing	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//361	0	11	encouraged	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//361	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//361	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//361	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//361	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

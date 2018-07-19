@@ -1,14 +1,14 @@
 #begin document (nw/test_type1/stereotype//236); part 000
-nw/test_type1/stereotype//236	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//236	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//236	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//236	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//236	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//236	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//236	0	3	telling	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//236	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//236	0	5	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//236	0	6	what	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//236	0	7	design	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//236	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//236	0	9	wants	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//236	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//236	0	9	wants	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//236	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

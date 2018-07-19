@@ -2,15 +2,15 @@
 nw/dev_type2/stereotype//163	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//163	0	1	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//163	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//163	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//163	0	4	manager	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//163	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//163	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//163	0	4	manager	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//163	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//163	0	6	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//163	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//163	0	8	hoping	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//163	0	9	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//163	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//163	0	11	would	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//163	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//163	0	11	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//163	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

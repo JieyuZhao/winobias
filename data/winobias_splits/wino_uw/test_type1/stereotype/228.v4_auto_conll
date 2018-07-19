@@ -1,14 +1,14 @@
 #begin document (nw/test_type1/stereotype//228); part 000
-nw/test_type1/stereotype//228	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//228	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//228	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//228	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//228	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//228	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	3	talking	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	6	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	7	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//228	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//228	0	9	put	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//228	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//228	0	9	put	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	10	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	11	much	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//228	0	12	salt	-	-	-	-	-	Speaker#1	*	*	*	*	-

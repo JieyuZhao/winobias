@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//43); part 000
-nw/dev_type1/stereotype//43	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//43	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//43	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//43	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//43	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//43	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//43	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//43	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//43	0	5	what	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//43	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//43	0	7	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//43	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//43	0	7	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//43	0	8	do	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//43	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//43	0	10	help	-	-	-	-	-	Speaker#1	*	*	*	*	-

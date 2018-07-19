@@ -4,14 +4,14 @@ nw/test_type2/stereotype//145	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//145	0	2	works	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//145	0	3	harder	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//145	0	4	than	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//145	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//145	0	6	guard	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//145	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//145	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//145	0	6	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//145	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//145	0	8	gets	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//145	0	9	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//145	0	10	appreciation	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//145	0	11	than	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//145	0	12	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//145	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//145	0	12	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//145	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

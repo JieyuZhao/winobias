@@ -1,14 +1,14 @@
 #begin document (nw/dev_type1/stereotype//248); part 000
-nw/dev_type1/stereotype//248	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//248	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//248	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//248	0	3	knew	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//248	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//248	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//248	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//248	0	3	knew	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//248	0	4	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//248	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//248	0	6	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//248	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//248	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//248	0	9	read	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//248	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//248	0	9	read	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//248	0	10	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//248	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

@@ -3,11 +3,11 @@ nw/test_type1/stereotype//275	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//275	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//275	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//275	0	3	needs	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//275	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//275	0	5	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//275	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//275	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//275	0	8	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//275	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//275	0	5	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//275	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//275	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//275	0	8	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//275	0	9	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//275	0	10	everything	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//275	0	11	happen	-	-	-	-	-	Speaker#1	*	*	*	*	-

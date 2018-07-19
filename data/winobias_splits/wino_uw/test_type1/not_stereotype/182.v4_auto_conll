@@ -1,16 +1,16 @@
 #begin document (nw/test_type1/not_stereotype//182); part 000
-nw/test_type1/not_stereotype//182	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//182	0	1	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//182	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//182	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//182	0	1	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//182	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//182	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//182	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//182	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//182	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//182	0	7	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//182	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//182	0	7	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//182	0	8	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//182	0	9	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//182	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//182	0	11	salary	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//182	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//182	0	11	salary	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//182	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

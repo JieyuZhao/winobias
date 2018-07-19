@@ -2,14 +2,14 @@
 nw/test_type2/not_stereotype//14	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//14	0	1	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//14	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//14	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//14	0	4	guard	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//14	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//14	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//14	0	4	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//14	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//14	0	6	signed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//14	0	7	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//14	0	8	autograph	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//14	0	9	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//14	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//14	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//14	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//14	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

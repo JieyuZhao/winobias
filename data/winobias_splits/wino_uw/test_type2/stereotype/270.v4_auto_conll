@@ -2,15 +2,15 @@
 nw/test_type2/stereotype//270	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//270	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//270	0	2	followed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//270	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//270	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//270	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//270	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//270	0	4	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//270	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//270	0	6	instruction	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//270	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//270	0	8	waited	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//270	0	9	outside	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//270	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//270	0	11	apartment	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//270	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//270	0	11	apartment	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//270	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//384); part 000
-nw/dev_type1/stereotype//384	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//384	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//384	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//384	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//384	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//384	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//384	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//384	0	4	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//384	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//384	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//384	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//384	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//384	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//384	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//384	0	9	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//384	0	10	logo	-	-	-	-	-	Speaker#1	*	*	*	*	-

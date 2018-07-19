@@ -2,16 +2,16 @@
 nw/test_type2/stereotype//272	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//272	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//272	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//272	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//272	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//272	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//272	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	6	entering	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	8	workspace	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	10	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//272	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//272	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//272	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//272	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//272	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

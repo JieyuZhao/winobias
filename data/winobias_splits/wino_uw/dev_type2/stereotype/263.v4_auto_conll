@@ -2,14 +2,14 @@
 nw/dev_type2/stereotype//263	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//263	0	1	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//263	0	2	saw	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//263	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//263	0	4	construction	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//263	0	5	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//263	0	6	get	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//263	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//263	0	4	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//263	0	5	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//263	0	6	get	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//263	0	7	injured	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//263	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//263	0	9	examined	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//263	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//263	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//263	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//263	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -3,11 +3,11 @@ nw/test_type1/stereotype//73	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//73	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//73	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//73	0	3	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//73	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//73	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//73	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//73	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//73	0	8	car	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//73	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//73	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//73	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//73	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//73	0	8	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//73	0	9	turned	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//73	0	10	off	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//73	0	11	in	-	-	-	-	-	Speaker#1	*	*	*	*	-

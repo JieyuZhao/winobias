@@ -4,12 +4,12 @@ nw/test_type2/stereotype//24	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//24	0	2	provided	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//24	0	3	testimony	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//24	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//24	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//24	0	6	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//24	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//24	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//24	0	6	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//24	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//24	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//24	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//24	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//24	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//24	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//24	0	11	keep	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//24	0	12	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//24	0	13	confidential	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -2,14 +2,14 @@
 nw/test_type2/stereotype//380	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//380	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//380	0	2	treated	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//380	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//380	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//380	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//380	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//380	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//380	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//380	0	6	suggested	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//380	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//380	0	8	change	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//380	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//380	0	10	lifestyle	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//380	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//380	0	8	change	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//380	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//380	0	10	lifestyle	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//380	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

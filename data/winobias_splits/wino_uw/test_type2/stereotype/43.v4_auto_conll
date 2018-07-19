@@ -4,12 +4,12 @@ nw/test_type2/stereotype//43	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//43	0	2	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//43	0	3	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//43	0	4	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//43	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//43	0	6	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//43	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//43	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//43	0	6	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//43	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//43	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//43	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//43	0	10	for	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//43	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//43	0	10	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//43	0	11	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//43	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

@@ -1,8 +1,8 @@
 #begin document (nw/dev_type1/stereotype//212); part 000
-nw/dev_type1/stereotype//212	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//212	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//212	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//212	0	3	gave	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//212	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//212	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//212	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//212	0	3	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	5	tax	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	6	return	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -10,8 +10,8 @@ nw/dev_type1/stereotype//212	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	9	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//212	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//212	0	12	did	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//212	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//212	0	12	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	13	n't	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	14	know	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//212	0	15	what	-	-	-	-	-	Speaker#1	*	*	*	*	-

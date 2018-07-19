@@ -1,14 +1,14 @@
 #begin document (nw/test_type1/stereotype//346); part 000
-nw/test_type1/stereotype//346	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//346	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//346	0	2	refused	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//346	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//346	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//346	0	2	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	4	obey	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	6	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//346	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//346	0	9	did	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//346	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//346	0	9	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	10	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	11	think	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//346	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-

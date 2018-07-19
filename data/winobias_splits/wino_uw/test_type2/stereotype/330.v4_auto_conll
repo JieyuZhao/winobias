@@ -2,9 +2,9 @@
 nw/test_type2/stereotype//330	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//330	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//330	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//330	0	5	how	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//330	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//330	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//330	0	5	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	6	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	7	find	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -12,7 +12,7 @@ nw/test_type2/stereotype//330	0	9	meeting	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	10	room	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	11	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//330	0	12	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//330	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//330	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//330	0	13	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//330	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,12 +1,12 @@
 #begin document (nw/test_type1/not_stereotype//379); part 000
-nw/test_type1/not_stereotype//379	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//379	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//379	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//379	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//379	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//379	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//379	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//379	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//379	0	5	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//379	0	6	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//379	0	7	recent	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//379	0	6	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//379	0	7	recent	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//379	0	8	nightmares	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//379	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

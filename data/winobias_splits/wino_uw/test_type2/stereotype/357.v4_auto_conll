@@ -4,13 +4,13 @@ nw/test_type2/stereotype//357	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//357	0	2	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//357	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//357	0	4	stand	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//357	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//357	0	6	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	(1
-nw/test_type2/stereotype//357	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//357	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//357	0	6	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	1)
+nw/test_type2/stereotype//357	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//357	0	8	purposefully	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//357	0	9	failed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//357	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//357	0	11	son	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//357	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//357	0	11	son	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//357	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

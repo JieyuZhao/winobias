@@ -1,15 +1,15 @@
 #begin document (nw/test_type1/not_stereotype//100); part 000
-nw/test_type1/not_stereotype//100	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//100	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//100	0	2	always	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//100	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//100	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//100	0	2	always	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	3	ask	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	7	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//100	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//100	0	10	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//100	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//100	0	10	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	11	only	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	12	recognize	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//100	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-

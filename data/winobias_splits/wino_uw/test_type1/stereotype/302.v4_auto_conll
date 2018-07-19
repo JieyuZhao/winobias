@@ -2,11 +2,11 @@
 nw/test_type1/stereotype//302	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//302	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//302	0	2	texted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//302	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//302	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//302	0	5	what	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//302	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//302	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//302	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//302	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//302	0	5	what	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//302	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//302	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//302	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//302	0	9	prepare	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//302	0	10	for	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -5,13 +5,13 @@ nw/test_type1/stereotype//159	0	2	prepares	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//159	0	3	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//159	0	4	food	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//159	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//159	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//159	0	7	writer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//159	0	8	every	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//159	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//159	0	7	writer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//159	0	8	every	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//159	0	9	day	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//159	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//159	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//159	0	12	requested	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//159	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//159	0	12	requested	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//159	0	13	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//159	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

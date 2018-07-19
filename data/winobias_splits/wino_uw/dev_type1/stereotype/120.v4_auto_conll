@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//120); part 000
-nw/dev_type1/stereotype//120	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//120	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//120	0	2	corrected	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//120	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//120	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//120	0	2	corrected	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//120	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//120	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//120	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//120	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//120	0	7	better	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//120	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//120	0	7	better	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//120	0	8	understood	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//120	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//120	0	10	problem	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -1,12 +1,12 @@
 #begin document (nw/test_type1/not_stereotype//191); part 000
-nw/test_type1/not_stereotype//191	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//191	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//191	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//191	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//191	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//191	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//191	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//191	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//191	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//191	0	6	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//191	0	7	back	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//191	0	6	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//191	0	7	back	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//191	0	8	ached	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//191	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

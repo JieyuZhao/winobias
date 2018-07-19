@@ -2,13 +2,13 @@
 nw/dev_type2/stereotype//172	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//172	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//172	0	2	greeted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//172	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//172	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//172	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//172	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//172	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//172	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//172	0	6	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//172	0	7	winked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//172	0	8	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//172	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//172	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//172	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//172	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

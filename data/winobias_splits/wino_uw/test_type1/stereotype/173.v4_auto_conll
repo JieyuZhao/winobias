@@ -4,11 +4,11 @@ nw/test_type1/stereotype//173	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//173	0	2	prepared	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//173	0	3	dinner	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//173	0	4	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//173	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//173	0	6	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//173	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//173	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//173	0	9	liked	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//173	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//173	0	6	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//173	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//173	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//173	0	9	liked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//173	0	10	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//173	0	11	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//173	0	12	much	-	-	-	-	-	Speaker#1	*	*	*	*	-

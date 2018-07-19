@@ -3,11 +3,11 @@ nw/test_type1/stereotype//25	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//25	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//25	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//25	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//25	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//25	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//25	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//25	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//25	0	8	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//25	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//25	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//25	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//25	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//25	0	8	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//25	0	9	key	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//25	0	10	information	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//25	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-

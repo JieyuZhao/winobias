@@ -2,15 +2,15 @@
 nw/test_type1/stereotype//380	0	0	Last	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//380	0	1	Saturday	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//380	0	2	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//380	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//380	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//380	0	5	called	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//380	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//380	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//380	0	5	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//380	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//380	0	7	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//380	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//380	0	9	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//380	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//380	0	11	suit	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//380	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//380	0	11	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//380	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

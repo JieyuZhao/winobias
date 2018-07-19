@@ -5,13 +5,13 @@ nw/dev_type2/stereotype//279	0	2	liked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//279	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//279	0	4	spy	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//279	0	5	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//279	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//279	0	7	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	(1
-nw/dev_type2/stereotype//279	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//279	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//279	0	7	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	1)
+nw/dev_type2/stereotype//279	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//279	0	9	listened	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//279	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//279	0	11	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//279	0	12	conversations	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//279	0	11	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//279	0	12	conversations	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//279	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,12 +1,12 @@
 #begin document (nw/test_type1/stereotype//338); part 000
-nw/test_type1/stereotype//338	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//338	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//338	0	2	employed	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//338	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//338	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//338	0	2	employed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//338	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//338	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//338	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//338	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//338	0	7	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//338	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//338	0	7	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//338	0	8	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//338	0	9	stand	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//338	0	10	housework	-	-	-	-	-	Speaker#1	*	*	*	*	-

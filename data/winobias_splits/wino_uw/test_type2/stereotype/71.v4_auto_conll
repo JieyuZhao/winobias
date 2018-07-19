@@ -6,14 +6,14 @@ nw/test_type2/stereotype//71	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//71	0	4	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//71	0	5	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//71	0	6	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//71	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//71	0	8	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//71	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//71	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//71	0	8	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//71	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//71	0	10	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//71	0	11	proceeded	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//71	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//71	0	13	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//71	0	14	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//71	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//71	0	14	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//71	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

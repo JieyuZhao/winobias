@@ -5,13 +5,13 @@ nw/dev_type2/not_stereotype//219	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//219	0	3	handed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//219	0	4	money	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//219	0	5	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//219	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//219	0	7	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	(1
-nw/dev_type2/not_stereotype//219	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/not_stereotype//219	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/not_stereotype//219	0	7	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	1)
+nw/dev_type2/not_stereotype//219	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//219	0	9	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//219	0	10	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//219	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/not_stereotype//219	0	12	goods	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//219	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/not_stereotype//219	0	12	goods	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/not_stereotype//219	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

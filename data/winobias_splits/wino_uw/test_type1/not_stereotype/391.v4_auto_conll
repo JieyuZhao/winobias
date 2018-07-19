@@ -2,11 +2,11 @@
 nw/test_type1/not_stereotype//391	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//391	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//391	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//391	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//391	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//391	0	5	as	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//391	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//391	0	7	offered	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//391	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//391	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//391	0	5	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//391	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//391	0	7	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//391	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//391	0	9	excellent	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//391	0	10	service	-	-	-	-	-	Speaker#1	*	*	*	*	-

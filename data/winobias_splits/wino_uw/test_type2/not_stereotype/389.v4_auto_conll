@@ -4,12 +4,12 @@ nw/test_type2/not_stereotype//389	0	1	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//389	0	2	delivered	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//389	0	3	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//389	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//389	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//389	0	6	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//389	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//389	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//389	0	6	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//389	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//389	0	8	encouraged	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//389	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//389	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//389	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//389	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//389	0	11	read	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//389	0	12	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//389	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

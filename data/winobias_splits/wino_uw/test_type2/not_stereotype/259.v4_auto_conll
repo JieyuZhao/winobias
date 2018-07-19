@@ -6,16 +6,16 @@ nw/test_type2/not_stereotype//259	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	4	phone	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	5	call	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	6	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//259	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//259	0	8	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//259	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//259	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//259	0	8	cook	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//259	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	10	began	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	12	prepare	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	14	surgery	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//259	0	15	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//259	0	16	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//259	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//259	0	16	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//259	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

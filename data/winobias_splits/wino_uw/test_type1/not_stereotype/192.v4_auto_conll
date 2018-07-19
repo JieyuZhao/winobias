@@ -1,12 +1,12 @@
 #begin document (nw/test_type1/not_stereotype//192); part 000
-nw/test_type1/not_stereotype//192	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//192	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//192	0	2	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//192	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//192	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//192	0	2	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//192	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//192	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//192	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//192	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//192	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//192	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//192	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//192	0	8	properly	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//192	0	9	looked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//192	0	10	after	-	-	-	-	-	Speaker#1	*	*	*	*	-

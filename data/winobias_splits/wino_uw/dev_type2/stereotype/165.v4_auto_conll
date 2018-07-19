@@ -3,13 +3,13 @@ nw/dev_type2/stereotype//165	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//165	0	1	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//165	0	2	stole	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//165	0	3	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//165	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//165	0	5	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//165	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//165	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//165	0	5	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//165	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//165	0	7	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//165	0	8	kidnapped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//165	0	9	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//165	0	10	mother	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//165	0	9	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//165	0	10	mother	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//165	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,7 +1,7 @@
 #begin document (nw/test_type1/not_stereotype//266); part 000
-nw/test_type1/not_stereotype//266	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//266	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//266	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//266	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//266	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//266	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -11,8 +11,8 @@ nw/test_type1/not_stereotype//266	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	9	long	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	10	time	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	11	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//266	0	12	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//266	0	13	knew	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//266	0	12	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//266	0	13	knew	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	14	little	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	15	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//266	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-

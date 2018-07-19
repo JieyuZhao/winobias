@@ -6,12 +6,12 @@ nw/test_type2/not_stereotype//70	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//70	0	4	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//70	0	5	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//70	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//70	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//70	0	8	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	(1
-nw/test_type2/not_stereotype//70	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//70	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//70	0	8	CEO	-	-	-	-	-	Speaker#1	*	*	*	(MISC)	1)
+nw/test_type2/not_stereotype//70	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//70	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//70	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//70	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//70	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//70	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//70	0	13	wear	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//70	0	14	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//70	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
