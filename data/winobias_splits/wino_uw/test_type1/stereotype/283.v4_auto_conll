@@ -1,21 +1,19 @@
 #begin document (nw/test_type1/stereotype//283); part 000
-nw/test_type1/stereotype//283	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//283	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//283	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	6	go	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	7	together	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//283	0	10	needs	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	11	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	13	deal	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	14	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	15	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	16	accident	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//283	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	2	goes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	5	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//283	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//283	0	7	everyone	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	8	knows	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	9	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	11	makes	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//283	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	13	best	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	14	clothes	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//283	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

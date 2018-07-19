@@ -1,12 +1,15 @@
 #begin document (nw/test_type2/not_stereotype//212); part 000
 nw/test_type2/not_stereotype//212	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//212	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//212	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//212	0	2	disliked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//212	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//212	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//212	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//212	0	6	fired	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//212	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//212	0	8	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//212	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//212	0	4	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//212	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//212	0	6	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//212	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//212	0	8	leave	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//212	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//212	0	10	group	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//212	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

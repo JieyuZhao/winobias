@@ -1,20 +1,20 @@
 #begin document (nw/test_type1/stereotype//368); part 000
-nw/test_type1/stereotype//368	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//368	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//368	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//368	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//368	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//368	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//368	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//368	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//368	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//368	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/stereotype//368	0	6	withdraw	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//368	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//368	0	8	story	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//368	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//368	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//368	0	11	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//368	0	12	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//368	0	13	stand	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//368	0	14	negative	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//368	0	15	press	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//368	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//368	0	11	always	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//368	0	12	wrote	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//368	0	13	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//368	0	14	many	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//368	0	15	details	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//368	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

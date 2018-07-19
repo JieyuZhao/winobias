@@ -1,17 +1,19 @@
 #begin document (nw/test_type2/stereotype//282); part 000
 nw/test_type2/stereotype//282	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//282	0	1	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//282	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//282	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//282	0	4	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//282	0	5	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//282	0	5	at	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type2/stereotype//282	0	6	home	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//282	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//282	0	8	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//282	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//282	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//282	0	11	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//282	0	12	design	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//282	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//282	0	11	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	13	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	14	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//282	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

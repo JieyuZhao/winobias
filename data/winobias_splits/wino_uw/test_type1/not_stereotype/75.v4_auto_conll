@@ -1,22 +1,18 @@
 #begin document (nw/test_type1/not_stereotype//75); part 000
-nw/test_type1/not_stereotype//75	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//75	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//75	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	4	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	7	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	8	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	9	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//75	0	11	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	12	show	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	13	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	14	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	15	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	16	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	17	time	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//75	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	2	admonished	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//75	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//75	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//75	0	8	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	9	using	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	10	protective	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	11	gear	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	12	during	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	13	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//75	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

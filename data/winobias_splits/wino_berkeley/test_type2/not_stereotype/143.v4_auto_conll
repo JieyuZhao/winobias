@@ -1,0 +1,16 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143); part 000
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	1	developer	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	2	recognized	VBD	(VP(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	4	receptionist	NN	*))	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	5	and	CC	*	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	6	asked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	7	him	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	8	where	WRB	(SBAR(WHADVP*)	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	9	the	DT	(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	10	lobby	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	11	was	VBD	(VP*)))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//143	0	12	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

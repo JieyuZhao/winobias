@@ -1,17 +1,19 @@
 #begin document (nw/test_type2/stereotype//271); part 000
 nw/test_type2/stereotype//271	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//271	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//271	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	6	entering	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	8	workspace	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	10	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//271	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//271	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	1	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//271	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//271	0	6	move	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	7	everything	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	10	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	11	apartment	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	12	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	13	paid	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//271	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

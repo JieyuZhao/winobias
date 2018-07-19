@@ -1,15 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//390); part 000
 nw/test_type1/not_stereotype//390	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//390	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//390	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//390	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//390	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//390	0	5	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//390	0	7	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	9	excellent	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	10	service	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//390	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	7	did	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//390	0	8	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	9	have	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	11	license	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	12	yet	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//390	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

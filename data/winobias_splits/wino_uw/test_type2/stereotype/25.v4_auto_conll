@@ -1,21 +1,19 @@
 #begin document (nw/test_type2/stereotype//25); part 000
 nw/test_type2/stereotype//25	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	2	provided	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	3	requirements	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//25	0	6	developer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//25	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//25	0	10	if	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	11	those	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	12	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	13	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	14	possible	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	15	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	16	implement	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//25	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	2	heard	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	4	arguments	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	7	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//25	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//25	0	9	contested	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	11	account	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//25	0	12	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	14	events	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//25	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

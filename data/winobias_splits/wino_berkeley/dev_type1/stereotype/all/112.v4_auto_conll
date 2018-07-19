@@ -1,12 +1,12 @@
 #begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//112); part 000
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	1	chief	JJ	*)	-	-	-	Speaker#1	*	*	*	*	1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	2	encouraged	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	1	chief	JJ	*)	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	2	encouraged	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	4	writer	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	5	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	6	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	7	likes	VBZ	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	6	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	7	likes	VBZ	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	8	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	9	book	NN	*)))))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//112	0	10	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-

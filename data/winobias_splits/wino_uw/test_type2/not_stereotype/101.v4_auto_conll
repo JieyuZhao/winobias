@@ -1,20 +1,19 @@
 #begin document (nw/test_type2/not_stereotype//101); part 000
 nw/test_type2/not_stereotype//101	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	2	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//101	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	4	meet	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//101	0	7	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//101	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	9	ask	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//101	0	11	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	13	deal	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	14	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	15	stomachache	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//101	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//101	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//101	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//101	0	10	recommend	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	11	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	12	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	13	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	14	read	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//101	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

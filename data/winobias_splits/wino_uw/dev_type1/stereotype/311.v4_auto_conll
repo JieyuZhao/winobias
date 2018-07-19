@@ -2,15 +2,15 @@
 nw/dev_type1/stereotype//311	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//311	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//311	0	2	berated	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//311	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//311	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//311	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//311	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//311	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//311	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//311	0	6	failure	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//311	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//311	0	8	adhere	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//311	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//311	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//311	0	11	protocall	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//311	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//311	0	11	protocol	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//311	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

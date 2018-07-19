@@ -1,14 +1,16 @@
 #begin document (nw/test_type1/not_stereotype//161); part 000
 nw/test_type1/not_stereotype//161	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//161	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//161	0	2	complained	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//161	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//161	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//161	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//161	0	6	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//161	0	7	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//161	0	8	poor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//161	0	9	performance	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//161	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	3	impressed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	4	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	6	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//161	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//161	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	9	showed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//161	0	10	great	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	11	talent	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//161	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

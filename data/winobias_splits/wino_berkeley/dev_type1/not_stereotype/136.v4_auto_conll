@@ -1,15 +1,15 @@
 #begin document (../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136); part 000
-../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	1	ceo	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
-../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	2	could	MD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	1	CEO	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	2	could	MD	(VP*	-	-	-	Speaker#1	*	*	*	*	1)
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	3	not	RB	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	4	understand	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	5	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	6	attendant	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	7	,	,	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	8	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	9	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
-../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	10	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	9	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	10	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	11	deaf	JJ	(ADJP*))))))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/not_stereotype//136	0	12	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
 

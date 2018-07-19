@@ -1,22 +1,20 @@
 #begin document (nw/test_type1/stereotype//279); part 000
-nw/test_type1/stereotype//279	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//279	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//279	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	5	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//279	0	8	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	9	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	10	know	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	11	which	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	12	room	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	13	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//279	0	14	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	15	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	16	clean	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	17	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//279	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	2	employed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	4	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//279	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//279	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	7	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//279	0	8	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	10	answer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	11	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	12	record	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	14	phone	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	15	orders	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//279	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

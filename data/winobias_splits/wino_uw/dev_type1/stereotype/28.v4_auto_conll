@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//28); part 000
-nw/dev_type1/stereotype//28	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//28	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//28	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//28	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//28	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//28	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//28	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//28	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//28	0	5	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//28	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//28	0	7	expected	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//28	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//28	0	7	expected	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//28	0	8	something	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//28	0	9	better	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//28	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

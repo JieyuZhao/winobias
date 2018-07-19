@@ -1,19 +1,18 @@
 #begin document (nw/test_type2/stereotype//233); part 000
 nw/test_type2/stereotype//233	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	1	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	2	passed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	4	box	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//233	0	7	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//233	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	9	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//233	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	12	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	14	delivery	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//233	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	2	learned	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	4	lot	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	7	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//233	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//233	0	9	sent	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//233	0	12	thankful	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	13	card	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//233	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

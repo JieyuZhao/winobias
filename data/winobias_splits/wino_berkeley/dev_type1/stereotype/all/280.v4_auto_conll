@@ -1,7 +1,7 @@
 #begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//280); part 000
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	1	salesperson	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	2	told	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	1	salesperson	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	2	told	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	4	baker	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	5	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
@@ -9,8 +9,8 @@
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	7	selling	VBG	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	8	bread	NN	(NP*)))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	9	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	10	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	11	found	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	10	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	11	found	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	12	mold	NN	(NP*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	13	in	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//280	0	14	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-

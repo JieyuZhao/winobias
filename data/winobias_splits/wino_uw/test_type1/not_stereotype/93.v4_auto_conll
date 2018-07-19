@@ -1,17 +1,22 @@
 #begin document (nw/test_type1/not_stereotype//93); part 000
-nw/test_type1/not_stereotype//93	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//93	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//93	0	2	tried	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	4	persuade	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	6	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	8	buy	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	9	something	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	10	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//93	0	12	succeeded	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//93	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//93	0	5	win	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//93	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	7	case	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	8	without	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	9	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//93	0	13	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	14	poor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	15	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	16	afford	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	17	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//93	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

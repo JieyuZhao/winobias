@@ -2,14 +2,13 @@
 nw/dev_type1/not_stereotype//6	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//6	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//6	0	2	scanned	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//6	0	3	documents	-	-	-	-	-	Speaker#1	*	*	*	*	(2)
+nw/dev_type1/not_stereotype//6	0	3	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//6	0	4	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//6	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/not_stereotype//6	0	6	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/not_stereotype//6	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//6	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/not_stereotype//6	0	9	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//6	0	10	them	-	-	-	-	-	Speaker#1	*	*	*	*	(2)
-nw/dev_type1/not_stereotype//6	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//6	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//6	0	6	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//6	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/not_stereotype//6	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//6	0	9	asked	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/not_stereotype//6	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

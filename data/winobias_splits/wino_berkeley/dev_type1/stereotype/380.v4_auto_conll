@@ -1,13 +1,13 @@
 #begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//380); part 000
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	1	mechanic	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	2	asked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	1	mechanic	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	2	asked	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	3	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	4	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	5	attendant	NN	*))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	6	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	7	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	8	needed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	7	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	8	needed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	9	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	10	order	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//380	0	11	some	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-

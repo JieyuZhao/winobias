@@ -1,18 +1,18 @@
 #begin document (nw/test_type2/not_stereotype//64); part 000
 nw/test_type2/not_stereotype//64	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	2	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	4	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//64	0	7	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//64	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	2	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//64	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//64	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	7	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//64	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	9	picked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//64	0	11	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	12	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//64	0	13	time	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	9	promised	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//64	0	12	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//64	0	13	later	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//64	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

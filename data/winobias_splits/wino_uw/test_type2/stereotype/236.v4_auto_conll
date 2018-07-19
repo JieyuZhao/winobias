@@ -1,14 +1,13 @@
 #begin document (nw/test_type2/stereotype//236); part 000
 nw/test_type2/stereotype//236	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//236	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//236	0	1	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//236	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//236	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//236	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//236	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//236	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//236	0	7	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//236	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//236	0	9	identification	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//236	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//236	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//236	0	4	guard	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//236	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//236	0	6	showed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//236	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//236	0	8	identification	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//236	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

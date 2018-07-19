@@ -2,16 +2,17 @@
 nw/dev_type2/stereotype//7	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//7	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//7	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//7	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//7	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//7	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	(2
-nw/dev_type2/stereotype//7	0	6	documents	-	-	-	-	-	Speaker#1	*	*	*	*	2)
+nw/dev_type2/stereotype//7	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//7	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//7	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//7	0	6	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//7	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//7	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//7	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//7	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//7	0	11	scan	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//7	0	12	them	-	-	-	-	-	Speaker#1	*	*	*	*	(2)
-nw/dev_type2/stereotype//7	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//7	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//7	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type2/stereotype//7	0	11	do	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//7	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//7	0	13	scanning	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//7	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

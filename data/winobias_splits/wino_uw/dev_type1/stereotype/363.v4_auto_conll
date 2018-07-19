@@ -2,12 +2,12 @@
 nw/dev_type1/stereotype//363	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//363	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//363	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//363	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//363	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//363	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//363	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//363	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//363	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//363	0	6	get	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//363	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//363	0	8	agreement	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//363	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//363	0	8	agreement	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//363	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

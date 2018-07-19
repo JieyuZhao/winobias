@@ -1,21 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//213); part 000
-nw/test_type1/not_stereotype//213	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//213	0	1	ceo	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//213	0	2	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	3	discussing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	6	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	7	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	8	how	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//213	0	10	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	11	like	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	13	story	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	14	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	15	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	16	written	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//213	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//213	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//213	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//213	0	8	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	9	expert	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	10	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	12	law	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//213	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

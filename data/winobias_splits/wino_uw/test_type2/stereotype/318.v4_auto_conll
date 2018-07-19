@@ -1,20 +1,18 @@
 #begin document (nw/test_type2/stereotype//318); part 000
 nw/test_type2/stereotype//318	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	1	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	2	showed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	2	examined	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//318	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	4	bill	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//318	0	7	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//318	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	9	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//318	0	4	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//318	0	5	in	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//318	0	6	detail	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	8	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	10	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/test_type2/stereotype//318	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	12	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	13	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	14	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	15	time	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//318	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	12	worry	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	13	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//318	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

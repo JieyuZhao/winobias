@@ -1,17 +1,17 @@
 #begin document (nw/test_type1/stereotype//112); part 000
 nw/test_type1/stereotype//112	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//112	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//112	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//112	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//112	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//112	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//112	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//112	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	8	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	9	wearing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	11	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//112	0	12	uniform	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//112	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//112	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//112	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//112	0	9	check	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//112	0	10	everyone	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//112	0	11	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//112	0	12	identity	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//112	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

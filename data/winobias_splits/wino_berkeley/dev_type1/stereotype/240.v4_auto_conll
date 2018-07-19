@@ -1,15 +1,15 @@
 #begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//240); part 000
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	1	supervisor	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	2	made	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	1	supervisor	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	2	made	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	3	the	DT	(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	4	nurse	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	5	perform	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	6	remedial	JJ	(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	7	study	NN	*)))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	8	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	9	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	10	noticed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	9	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	10	noticed	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	11	poorly	RB	(NP(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	12	executed	VBN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//240	0	13	injections	NNS	*)))))	-	-	-	Speaker#1	*	*	*	*	-

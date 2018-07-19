@@ -1,19 +1,22 @@
 #begin document (nw/test_type1/stereotype//46); part 000
 nw/test_type1/stereotype//46	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//46	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//46	0	2	loved	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//46	0	2	loved	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/stereotype//46	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//46	0	4	get	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//46	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//46	0	6	haircut	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//46	0	7	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//46	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//46	0	9	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//46	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	9	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//46	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//46	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//46	0	12	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//46	0	13	offer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//46	0	14	snacks	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//46	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	12	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//46	0	13	sit	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	14	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	15	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	16	comfy	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	17	chair	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//46	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

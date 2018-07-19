@@ -1,7 +1,7 @@
 #begin document (nw/dev_type1/not_stereotype//298); part 000
-nw/dev_type1/not_stereotype//298	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/not_stereotype//298	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/not_stereotype//298	0	2	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//298	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//298	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//298	0	2	offered	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/not_stereotype//298	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//298	0	4	carry	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//298	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -10,8 +10,8 @@ nw/dev_type1/not_stereotype//298	0	7	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//298	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//298	0	9	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//298	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//298	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/not_stereotype//298	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//298	0	11	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//298	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/not_stereotype//298	0	13	strong	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//298	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

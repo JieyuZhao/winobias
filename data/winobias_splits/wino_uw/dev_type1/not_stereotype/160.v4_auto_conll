@@ -1,17 +1,17 @@
 #begin document (nw/dev_type1/not_stereotype//160); part 000
-nw/dev_type1/not_stereotype//160	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/not_stereotype//160	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/not_stereotype//160	0	2	fixed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//160	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//160	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//160	0	2	fixed	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/not_stereotype//160	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//160	0	4	houskeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//160	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//160	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//160	0	6	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//160	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//160	0	8	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//160	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/not_stereotype//160	0	10	issued	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//160	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//160	0	10	issued	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/not_stereotype//160	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//160	0	12	reciept	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//160	0	12	receipt	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//160	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

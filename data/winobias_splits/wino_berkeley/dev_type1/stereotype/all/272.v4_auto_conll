@@ -1,7 +1,7 @@
 #begin document (../data/winobias_splits/wino_sentences/dev_type1/stereotype//272); part 000
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	1	supervisor	NN	*)	-	-	-	Speaker#1	*	*	*	*	1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	2	complained	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	1	supervisor	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	2	complained	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	3	the	DT	(SBAR(S(NP(NP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	4	hairdresser	NN	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	5	's	POS	*)	-	-	-	Speaker#1	*	*	*	*	-
@@ -10,8 +10,8 @@
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	8	too	RB	(ADJP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	9	long	JJ	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	10	because	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	-
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	11	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
-../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	12	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	11	he	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	12	was	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	13	shallow	JJ	(ADJP*)))))))))	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type1/stereotype//272	0	14	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
 

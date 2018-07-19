@@ -1,19 +1,15 @@
 #begin document (nw/test_type2/not_stereotype//54); part 000
 nw/test_type2/not_stereotype//54	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	4	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//54	0	7	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//54	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	9	provided	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//54	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	12	bottle	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	13	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	14	water	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//54	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	4	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//54	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//54	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	8	for	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//54	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	10	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//54	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

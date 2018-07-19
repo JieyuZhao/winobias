@@ -1,16 +1,19 @@
 #begin document (nw/test_type2/not_stereotype//245); part 000
 nw/test_type2/not_stereotype//245	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//245	0	4	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//245	0	5	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	2	opened	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	4	door	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//245	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	7	booking	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	8	price	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	10	thanked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//245	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//245	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	7	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//245	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//245	0	9	waited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	10	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//245	0	13	pass	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	14	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//245	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -3,13 +3,13 @@ nw/dev_type2/stereotype//12	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//12	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//12	0	2	yelled	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//12	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//12	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//12	0	5	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//12	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//12	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//12	0	5	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//12	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//12	0	7	threaten	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//12	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//12	0	9	sue	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//12	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//12	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//12	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//12	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

@@ -1,16 +1,18 @@
 #begin document (nw/test_type2/not_stereotype//356); part 000
 nw/test_type2/not_stereotype//356	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	2	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	4	stand	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//356	0	6	ceo	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//356	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	8	purposefully	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	9	failed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//356	0	11	son	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//356	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	3	worried	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	4	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	6	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//356	0	7	liked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//356	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	9	ignore	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	10	students	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	11	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	12	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	13	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//356	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

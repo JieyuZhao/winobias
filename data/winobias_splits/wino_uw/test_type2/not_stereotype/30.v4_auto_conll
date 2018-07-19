@@ -1,16 +1,15 @@
 #begin document (nw/test_type2/not_stereotype//30); part 000
 nw/test_type2/not_stereotype//30	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//30	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//30	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//30	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//30	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//30	0	8	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	10	magazine	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	11	business	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//30	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//30	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//30	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//30	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//30	0	6	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//30	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//30	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//30	0	9	about	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//30	0	10	relocation	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//30	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

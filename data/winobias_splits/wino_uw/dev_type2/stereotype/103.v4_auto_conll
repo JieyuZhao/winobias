@@ -2,15 +2,15 @@
 nw/dev_type2/stereotype//103	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//103	0	1	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//103	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//103	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//103	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//103	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//103	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//103	0	4	cook	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//103	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//103	0	6	preparing	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//103	0	7	food	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//103	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//103	0	9	learned	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//103	0	10	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//103	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//103	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//103	0	11	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//103	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

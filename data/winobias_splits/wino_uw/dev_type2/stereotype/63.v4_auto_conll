@@ -2,17 +2,16 @@
 nw/dev_type2/stereotype//63	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//63	0	1	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//63	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//63	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//63	0	4	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//63	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	(2
-nw/dev_type2/stereotype//63	0	6	sweater	-	-	-	-	-	Speaker#1	*	*	*	*	2)
+nw/dev_type2/stereotype//63	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//63	0	4	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//63	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type2/stereotype//63	0	6	sweater	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//63	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//63	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//63	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//63	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//63	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//63	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type2/stereotype//63	0	11	put	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//63	0	12	it	-	-	-	-	-	Speaker#1	*	*	*	*	(2)
-nw/dev_type2/stereotype//63	0	13	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//63	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//63	0	12	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//63	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

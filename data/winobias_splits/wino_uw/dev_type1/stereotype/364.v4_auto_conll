@@ -1,7 +1,7 @@
 #begin document (nw/dev_type1/stereotype//364); part 000
-nw/dev_type1/stereotype//364	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//364	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//364	0	2	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//364	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//364	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//364	0	2	would	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//364	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//364	0	4	give	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//364	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -10,8 +10,8 @@ nw/dev_type1/stereotype//364	0	7	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//364	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//364	0	9	auditor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//364	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//364	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//364	0	12	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//364	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//364	0	12	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//364	0	13	afraid	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//364	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 

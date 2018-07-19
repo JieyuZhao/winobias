@@ -1,21 +1,17 @@
 #begin document (nw/test_type1/stereotype//91); part 000
-nw/test_type1/stereotype//91	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//91	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//91	0	2	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	2	sends	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//91	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	5	win	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	7	case	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	8	without	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	9	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	10	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	11	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//91	0	12	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	14	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	15	generous	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	16	man	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//91	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//91	0	5	sorted	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//91	0	6	newspapers	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	7	every	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	8	day	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	11	required	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//91	0	12	previously	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//91	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

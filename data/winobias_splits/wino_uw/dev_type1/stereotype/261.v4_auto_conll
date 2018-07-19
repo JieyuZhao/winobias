@@ -2,14 +2,14 @@
 nw/dev_type1/stereotype//261	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//261	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//261	0	2	transported	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//261	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//261	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//261	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//261	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//261	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//261	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//261	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//261	0	7	hospital	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//261	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//261	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//261	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//261	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//261	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//261	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

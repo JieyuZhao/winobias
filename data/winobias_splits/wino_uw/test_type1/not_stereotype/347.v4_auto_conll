@@ -1,20 +1,24 @@
 #begin document (nw/test_type1/not_stereotype//347); part 000
-nw/test_type1/not_stereotype//347	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//347	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//347	0	2	picked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	3	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	4	bread	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	7	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//347	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	11	employed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	12	as	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	14	delivery	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	15	service	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//347	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	2	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	4	obey	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	6	designer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//347	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//347	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	9	gave	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//347	0	10	no	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	11	evidence	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	12	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	14	pedestal	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	15	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	16	support	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	17	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	18	artworks	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	19	weight	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//347	0	20	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

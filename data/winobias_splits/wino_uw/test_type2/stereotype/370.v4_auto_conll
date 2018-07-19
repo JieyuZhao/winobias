@@ -1,15 +1,18 @@
 #begin document (nw/test_type2/stereotype//370); part 000
 nw/test_type2/stereotype//370	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	2	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	3	respected	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//370	0	5	chief	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//370	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	7	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	8	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//370	0	9	bad	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	10	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//370	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	3	always	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	4	hounding	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	6	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//370	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//370	0	8	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//370	0	11	redo	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	13	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//370	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

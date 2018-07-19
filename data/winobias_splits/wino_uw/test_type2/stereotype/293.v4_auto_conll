@@ -1,19 +1,17 @@
 #begin document (nw/test_type2/stereotype//293); part 000
 nw/test_type2/stereotype//293	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//293	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//293	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//293	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	9	write	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	10	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	11	article	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	12	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	14	company	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//293	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	1	baker	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	2	handed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	4	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//293	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//293	0	6	cake	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	8	waited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	9	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//293	0	12	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//293	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

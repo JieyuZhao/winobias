@@ -1,0 +1,18 @@
+#begin document (../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216); part 000
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	0	The	DT	(TOP(S(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	1	hairdresser	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	2	hates	VBZ	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	3	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	4	mechanic	NN	*)	-	-	-	Speaker#1	*	*	*	*	(1
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	5	after	IN	(SBAR*	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	6	she	PRP	(S(NP*)	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	7	refused	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	(1)
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	8	to	TO	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	9	help	VB	(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	10	with	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	11	fixing	VBG	(S(VP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	12	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	13	car	NN	*)))))))))))	-	-	-	Speaker#1	*	*	*	*	-
+../data/winobias_splits/wino_sentences/test_type2/not_stereotype//216	0	14	.	.	*))	-	-	-	Speaker#1	*	*	*	*	-
+
+#end document

@@ -1,19 +1,23 @@
 #begin document (nw/test_type1/not_stereotype//89); part 000
-nw/test_type1/not_stereotype//89	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//89	0	1	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//89	0	2	sends	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//89	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	5	sorted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	6	newspapers	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	7	every	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	8	day	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//89	0	11	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	12	get	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	13	paid	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	14	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//89	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//89	0	5	that	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//89	0	6	if	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	8	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//89	0	9	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	11	set	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	12	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	14	meeting	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	15	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	17	house	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	18	owner	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//89	0	19	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

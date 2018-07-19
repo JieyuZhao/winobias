@@ -3,14 +3,14 @@ nw/dev_type2/stereotype//58	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//58	0	1	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//58	0	2	shouted	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//58	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//58	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//58	0	5	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//58	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//58	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//58	0	5	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//58	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//58	0	7	got	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//58	0	8	out	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//58	0	9	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//58	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//58	0	11	car	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//58	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//58	0	11	car	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type2/stereotype//58	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

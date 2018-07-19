@@ -1,14 +1,14 @@
 #begin document (nw/dev_type2/stereotype//111); part 000
 nw/dev_type2/stereotype//111	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//111	0	1	ceo	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//111	0	1	CEO	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//111	0	2	stared	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//111	0	3	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//111	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//111	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//111	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//111	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//111	0	5	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//111	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//111	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//111	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//111	0	9	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//111	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//111	0	9	for	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type2/stereotype//111	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//111	0	11	dinner	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//111	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -1,19 +1,18 @@
 #begin document (nw/test_type1/not_stereotype//51); part 000
-nw/test_type1/not_stereotype//51	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//51	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//51	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//51	0	3	coordinated	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	4	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	6	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	7	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	8	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//51	0	10	can	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	11	understand	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	12	well	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	14	design	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//51	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	3	handed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	4	forms	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	7	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//51	0	8	so	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//51	0	9	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	11	processes	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//51	0	12	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	13	application	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//51	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

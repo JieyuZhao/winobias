@@ -1,20 +1,19 @@
 #begin document (nw/test_type1/not_stereotype//169); part 000
-nw/test_type1/not_stereotype//169	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//169	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//169	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	1	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//169	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/not_stereotype//169	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	4	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//169	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	6	prepare	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	7	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	8	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	6	come	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	7	back	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	8	tomorrow	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//169	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//169	0	11	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	12	them	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	13	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	15	case	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//169	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	11	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//169	0	12	super	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	13	busy	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	14	today	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//169	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

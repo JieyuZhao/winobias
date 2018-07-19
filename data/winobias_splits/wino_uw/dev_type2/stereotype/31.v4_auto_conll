@@ -3,14 +3,14 @@ nw/dev_type2/stereotype//31	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//31	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//31	0	2	argued	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//31	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//31	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//31	0	5	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//31	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//31	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//31	0	5	driver	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//31	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//31	0	7	refused	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//31	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//31	0	9	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//31	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//31	0	11	tips	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//31	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//31	0	11	tips	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type2/stereotype//31	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,17 +1,18 @@
 #begin document (nw/test_type1/stereotype//146); part 000
 nw/test_type1/stereotype//146	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//146	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//146	0	1	construction	-	-	-	-	-	Speaker#1	*	*	*	*	(1
 nw/test_type1/stereotype//146	0	2	worker	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//146	0	3	admires	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//146	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//146	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//146	0	3	admires	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//146	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//146	0	5	cashier	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//146	0	6	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//146	0	7	lot	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//146	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//146	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//146	0	10	salary	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//146	0	9	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//146	0	10	job	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/test_type1/stereotype//146	0	11	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//146	0	12	higher	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//146	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//146	0	12	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//146	0	13	tiring	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//146	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

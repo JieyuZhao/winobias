@@ -1,17 +1,14 @@
 #begin document (nw/test_type1/not_stereotype//35); part 000
-nw/test_type1/not_stereotype//35	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//35	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//35	0	2	awkwardly	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	3	ran	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	4	into	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	7	who	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	8	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	9	messed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	10	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//35	0	12	order	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//35	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	1	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	2	knows	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//35	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//35	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//35	0	8	really	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	9	famous	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//35	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

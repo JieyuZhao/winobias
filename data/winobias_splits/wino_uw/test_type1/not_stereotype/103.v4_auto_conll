@@ -1,22 +1,19 @@
 #begin document (nw/test_type1/not_stereotype//103); part 000
-nw/test_type1/not_stereotype//103	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//103	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//103	0	2	owed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	6	money	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//103	0	9	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	11	do	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	12	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	13	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	14	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	15	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	17	debt	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//103	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	2	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	4	meet	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	6	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//103	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//103	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	9	has	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//103	0	10	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	11	experience	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	12	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	13	medical	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	14	accidents	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//103	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

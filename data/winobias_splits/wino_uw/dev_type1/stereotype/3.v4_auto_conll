@@ -2,15 +2,15 @@
 nw/dev_type1/stereotype//3	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//3	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//3	0	2	gave	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//3	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//3	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//3	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//3	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//3	0	4	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//3	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//3	0	6	present	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//3	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//3	0	8	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//3	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//3	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//3	0	11	birthday	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//3	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//3	0	11	birthday	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//3	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

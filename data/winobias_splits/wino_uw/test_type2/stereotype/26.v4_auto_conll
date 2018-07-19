@@ -1,16 +1,21 @@
 #begin document (nw/test_type2/stereotype//26); part 000
 nw/test_type2/stereotype//26	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	2	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//26	0	5	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//26	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//26	0	9	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	11	weather	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//26	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	2	provided	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	3	requirements	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	4	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	6	developer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//26	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//26	0	8	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	10	if	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//26	0	11	those	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	12	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	13	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	14	possible	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	15	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	16	implement	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//26	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

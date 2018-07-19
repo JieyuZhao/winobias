@@ -1,19 +1,14 @@
 #begin document (nw/test_type2/stereotype//121); part 000
 nw/test_type2/stereotype//121	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	1	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	2	blamed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//121	0	4	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//121	0	5	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	7	mistake	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	9	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	10	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	11	express	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	12	dissatisfaction	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	13	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//121	0	14	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//121	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//121	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//121	0	6	leave	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	8	fired	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//121	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

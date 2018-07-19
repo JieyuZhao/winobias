@@ -1,6 +1,7 @@
 import nltk
 import sys
 
+"not used in practice"
 entityIdx = {'[':'1',']':'1','(':'2',')':'2','{':'3','}':'3'}
 lines = open(sys.argv[1]).readlines()
 # lines = ["300 [The president] was sued because [he] was embezzling funds."]

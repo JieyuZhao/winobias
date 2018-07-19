@@ -1,17 +1,15 @@
 #begin document (nw/test_type2/stereotype//364); part 000
 nw/test_type2/stereotype//364	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	1	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	2	ignored	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//364	0	4	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//364	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	6	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//364	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	9	get	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	10	back	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	12	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//364	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	1	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	2	envied	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	4	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//364	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//364	0	6	job	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	8	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	9	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//364	0	10	so	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//364	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

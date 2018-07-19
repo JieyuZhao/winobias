@@ -1,7 +1,7 @@
 #begin document (nw/dev_type1/stereotype//238); part 000
-nw/dev_type1/stereotype//238	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//238	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//238	0	2	would	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//238	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//238	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//238	0	2	would	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//238	0	3	constantly	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//238	0	4	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//238	0	5	fun	-	-	-	-	-	Speaker#1	*	*	*	*	-
@@ -9,8 +9,8 @@ nw/dev_type1/stereotype//238	0	6	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//238	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//238	0	8	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//238	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//238	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//238	0	11	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//238	0	10	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//238	0	11	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//238	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//238	0	13	bully	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//238	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

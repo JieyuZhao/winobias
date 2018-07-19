@@ -1,19 +1,18 @@
 #begin document (nw/test_type1/stereotype//31); part 000
-nw/test_type1/stereotype//31	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//31	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//31	0	2	left	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	4	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	7	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//31	0	10	forgot	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	12	get	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	14	receipt	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//31	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	2	went	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	5	house	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	6	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	8	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//31	0	9	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//31	0	10	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	11	needed	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//31	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	13	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//31	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

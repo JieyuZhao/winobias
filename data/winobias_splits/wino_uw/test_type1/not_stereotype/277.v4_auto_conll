@@ -1,22 +1,16 @@
 #begin document (nw/test_type1/not_stereotype//277); part 000
-nw/test_type1/not_stereotype//277	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//277	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//277	0	2	employed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	1	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//277	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	4	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//277	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	8	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	9	busy	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	11	answer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	12	those	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	13	phone	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	14	calls	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	15	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	16	himself	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//277	0	17	everyday	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//277	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	4	secretary	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//277	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//277	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	7	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//277	0	8	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	9	everything	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	10	well	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	11	organized	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//277	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

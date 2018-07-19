@@ -1,16 +1,16 @@
 #begin document (nw/test_type2/not_stereotype//31); part 000
 nw/test_type2/not_stereotype//31	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	2	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	3	eye	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	4	contact	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//31	0	7	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//31	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	9	smilled	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	10	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//31	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//31	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//31	0	2	met	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//31	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//31	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//31	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//31	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//31	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//31	0	8	about	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//31	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//31	0	10	magazine	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//31	0	11	business	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//31	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

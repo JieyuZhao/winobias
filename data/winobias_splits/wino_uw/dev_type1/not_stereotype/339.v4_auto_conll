@@ -3,13 +3,12 @@ nw/dev_type1/not_stereotype//339	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//339	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//339	0	2	relies	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//339	0	3	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//339	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/not_stereotype//339	0	5	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/not_stereotype//339	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//339	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/not_stereotype//339	0	8	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//339	0	9	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//339	0	10	trustworthy	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//339	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//339	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//339	0	5	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//339	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/not_stereotype//339	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//339	0	8	is	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/not_stereotype//339	0	9	trustworthy	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//339	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

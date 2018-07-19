@@ -1,15 +1,18 @@
 #begin document (nw/test_type2/not_stereotype//299); part 000
 nw/test_type2/not_stereotype//299	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	2	called	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//299	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//299	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	6	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	7	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	8	appointment	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	9	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//299	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//299	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	1	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	2	stopped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	4	supervisor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//299	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//299	0	6	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	8	not	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//299	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	10	walk	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	11	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	12	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	13	way	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//299	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

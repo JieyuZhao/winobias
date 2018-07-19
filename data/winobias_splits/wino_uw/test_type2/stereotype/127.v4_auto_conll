@@ -1,19 +1,16 @@
 #begin document (nw/test_type2/stereotype//127); part 000
 nw/test_type2/stereotype//127	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	2	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//127	0	4	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//127	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	6	few	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	7	questions	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	9	praised	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	10	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//127	0	11	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	13	good	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	14	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//127	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	2	visited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//127	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//127	0	6	helped	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//127	0	9	prepare	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	11	dinner	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//127	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

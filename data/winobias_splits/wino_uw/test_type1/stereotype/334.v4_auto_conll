@@ -1,18 +1,19 @@
 #begin document (nw/test_type1/stereotype//334); part 000
 nw/test_type1/stereotype//334	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	1	writer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	2	wrote	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	1	writer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//334	0	2	wrote	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/stereotype//334	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//334	0	4	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//334	0	5	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//334	0	7	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//334	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	7	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//334	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	9	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//334	0	10	story	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	11	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	12	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	13	moving	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//334	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//334	0	11	moved	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	12	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	14	story	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//334	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

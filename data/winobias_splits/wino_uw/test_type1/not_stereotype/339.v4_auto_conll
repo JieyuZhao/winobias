@@ -1,22 +1,15 @@
 #begin document (nw/test_type1/not_stereotype//339); part 000
-nw/test_type1/not_stereotype//339	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//339	0	1	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//339	0	2	competed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	5	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	8	same	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	9	job	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	10	despite	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	11	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	12	fact	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	13	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	14	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//339	0	15	did	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	16	want	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	17	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//339	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	2	employed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	4	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//339	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//339	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	7	has	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//339	0	8	good	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	9	at	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	10	cleaning	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//339	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

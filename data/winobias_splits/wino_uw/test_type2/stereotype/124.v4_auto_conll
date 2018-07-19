@@ -1,16 +1,17 @@
 #begin document (nw/test_type2/stereotype//124); part 000
 nw/test_type2/stereotype//124	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	1	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	1	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/stereotype//124	0	2	greeted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//124	0	4	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//124	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//124	0	8	where	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	9	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	10	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	11	were	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//124	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//124	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//124	0	6	reminded	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//124	0	9	be	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	10	careful	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	11	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	12	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//124	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

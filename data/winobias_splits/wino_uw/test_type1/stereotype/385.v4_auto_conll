@@ -1,17 +1,17 @@
 #begin document (nw/test_type1/stereotype//385); part 000
-nw/test_type1/stereotype//385	0	0	When	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	1	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//385	0	2	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//385	0	3	arrived	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	4	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	8	surprised	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	9	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	10	his	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//385	0	11	enormous	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//385	0	12	truck	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	0	During	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	1	lunch	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	2	,	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	5	looked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	8	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//385	0	9	to	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//385	0	10	steal	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	11	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//385	0	12	food	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/test_type1/stereotype//385	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

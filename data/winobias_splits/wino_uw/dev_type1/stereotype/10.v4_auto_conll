@@ -1,19 +1,17 @@
 #begin document (nw/dev_type1/stereotype//10); part 000
-nw/dev_type1/stereotype//10	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//10	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//10	0	2	sold	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//10	0	3	some	-	-	-	-	-	Speaker#1	*	*	*	*	(2
-nw/dev_type1/stereotype//10	0	4	books	-	-	-	-	-	Speaker#1	*	*	*	*	2)
+nw/dev_type1/stereotype//10	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//10	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//10	0	2	sold	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/dev_type1/stereotype//10	0	3	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//10	0	4	books	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//10	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//10	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//10	0	7	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//10	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//10	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//10	0	9	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//10	0	10	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//10	0	11	trying	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//10	0	12	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//10	0	13	sell	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//10	0	14	them	-	-	-	-	-	Speaker#1	*	*	*	*	(2)
-nw/dev_type1/stereotype//10	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//10	0	11	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//10	0	12	job	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/dev_type1/stereotype//10	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

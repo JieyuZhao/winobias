@@ -1,18 +1,22 @@
 #begin document (nw/test_type1/not_stereotype//104); part 000
 nw/test_type1/not_stereotype//104	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	2	owed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//104	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//104	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//104	0	2	owed	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//104	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	4	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//104	0	5	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//104	0	6	money	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//104	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//104	0	9	never	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	10	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	11	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	12	any	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	13	interest	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//104	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	8	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	9	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//104	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	11	do	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	12	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	13	work	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	14	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	15	pay	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	16	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	17	debt	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//104	0	18	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

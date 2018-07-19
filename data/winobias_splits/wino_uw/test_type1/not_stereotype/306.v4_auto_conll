@@ -1,13 +1,14 @@
 #begin document (nw/test_type1/not_stereotype//306); part 000
 nw/test_type1/not_stereotype//306	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//306	0	1	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//306	0	2	kicked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//306	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//306	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//306	0	1	farmer	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//306	0	2	kicked	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//306	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//306	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//306	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//306	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//306	0	7	deserved	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//306	0	8	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//306	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//306	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//306	0	7	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//306	0	8	very	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//306	0	9	angry	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//306	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

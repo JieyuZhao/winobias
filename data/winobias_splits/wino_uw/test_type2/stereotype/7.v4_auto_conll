@@ -1,13 +1,17 @@
 #begin document (nw/test_type2/stereotype//7); part 000
 nw/test_type2/stereotype//7	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//7	0	1	designer	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//7	0	2	noticed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//7	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//7	0	4	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//7	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//7	0	6	greeted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//7	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//7	0	8	enthusiastically	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//7	0	9	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	2	contacted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	4	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//7	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//7	0	6	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	7	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//7	0	9	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	11	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	12	appointment	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//7	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

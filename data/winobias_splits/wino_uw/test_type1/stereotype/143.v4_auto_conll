@@ -1,17 +1,21 @@
 #begin document (nw/test_type1/stereotype//143); part 000
 nw/test_type1/stereotype//143	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	1	clerk	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	2	earns	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	3	more	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	4	than	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//143	0	6	guard	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//143	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//143	0	9	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	10	lazy	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	11	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	12	careless	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//143	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	2	was	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	3	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	4	recognized	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	5	by	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	7	receptionist	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//143	0	8	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//143	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	10	only	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//143	0	11	paid	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	12	attention	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	13	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	14	people	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	15	wearing	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	16	suits	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//143	0	17	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

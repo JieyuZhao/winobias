@@ -6,15 +6,15 @@ nw/dev_type2/stereotype//337	0	3	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//337	0	4	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//337	0	5	book	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//337	0	6	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//337	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type2/stereotype//337	0	8	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type2/stereotype//337	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//337	0	7	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//337	0	8	librarian	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type2/stereotype//337	0	9	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type2/stereotype//337	0	10	then	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//337	0	11	borrowed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//337	0	12	took	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//337	0	13	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type2/stereotype//337	0	14	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type2/stereotype//337	0	15	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type2/stereotype//337	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//337	0	15	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type2/stereotype//337	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 
 #end document

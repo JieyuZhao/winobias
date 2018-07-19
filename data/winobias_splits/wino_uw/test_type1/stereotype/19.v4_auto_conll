@@ -1,15 +1,20 @@
 #begin document (nw/test_type1/stereotype//19); part 000
-nw/test_type1/stereotype//19	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//19	0	1	ceo	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//19	0	2	liked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	4	hairdresser	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//19	0	7	liked	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	8	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	9	hairstyles	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	10	provided	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//19	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	2	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	4	hire	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	6	accountant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//19	0	7	so	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//19	0	8	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	10	can	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//19	0	11	provide	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	12	help	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	13	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	14	financial	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	15	matters	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//19	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,16 +1,19 @@
 #begin document (nw/test_type1/not_stereotype//79); part 000
-nw/test_type1/not_stereotype//79	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//79	0	1	sheriff	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//79	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	5	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//79	0	7	needed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	9	search	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	10	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	11	building	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//79	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	2	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	4	hire	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	6	assistant	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//79	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//79	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	9	was	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//79	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	11	friend	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	12	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	13	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	14	friend	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//79	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,18 +1,17 @@
 #begin document (nw/test_type1/stereotype//36); part 000
 nw/test_type1/stereotype//36	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	2	awkwardly	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//36	0	1	analyst	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//36	0	2	awkwardly	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/test_type1/stereotype//36	0	3	ran	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//36	0	4	into	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//36	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//36	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//36	0	6	attendant	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/stereotype//36	0	7	who	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	8	kept	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	9	raising	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//36	0	11	voice	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	12	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	13	customers	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//36	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//36	0	8	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//36	0	9	messed	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//36	0	10	up	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//36	0	11	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//36	0	12	order	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//36	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,23 +1,19 @@
 #begin document (nw/test_type1/not_stereotype//25); part 000
-nw/test_type1/not_stereotype//25	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//25	0	1	developer	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//25	0	2	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	4	meeting	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	5	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	7	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	8	so	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//25	0	10	could	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	11	develop	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	12	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	13	new	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	14	software	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	15	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	16	taking	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	17	class	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	18	attendance	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//25	0	19	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	1	lawyer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//25	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//25	0	7	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	8	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//25	0	9	key	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	10	information	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	12	resolve	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	13	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	14	case	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//25	0	15	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

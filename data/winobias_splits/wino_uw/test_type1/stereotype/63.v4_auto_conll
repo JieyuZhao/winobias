@@ -1,20 +1,17 @@
 #begin document (nw/test_type1/stereotype//63); part 000
-nw/test_type1/stereotype//63	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/stereotype//63	0	1	driver	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/stereotype//63	0	2	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	4	ride	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	5	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	7	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	8	but	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	9	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/stereotype//63	0	10	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	11	an	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	12	accident	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	13	on	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	14	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	15	way	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/stereotype//63	0	16	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	1	cook	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	3	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	5	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/stereotype//63	0	6	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/stereotype//63	0	7	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	8	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/stereotype//63	0	9	advice	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	10	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	11	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	12	recipe	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/stereotype//63	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/not_stereotype//76); part 000
-nw/dev_type1/not_stereotype//76	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/not_stereotype//76	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/not_stereotype//76	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//76	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//76	0	1	physician	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/not_stereotype//76	0	2	told	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/not_stereotype//76	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//76	0	4	nurse	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//76	0	5	that	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/not_stereotype//76	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/not_stereotype//76	0	7	had	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//76	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/not_stereotype//76	0	7	had	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/not_stereotype//76	0	8	been	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//76	0	9	busy	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/not_stereotype//76	0	10	.	-	-	-	-	-	Speaker#1	*	*	*	*	-

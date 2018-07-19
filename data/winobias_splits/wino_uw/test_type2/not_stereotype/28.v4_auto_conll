@@ -1,16 +1,15 @@
 #begin document (nw/test_type2/not_stereotype//28); part 000
 nw/test_type2/not_stereotype//28	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//28	0	1	manager	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//28	0	2	offered	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//28	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//28	0	2	demanded	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//28	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type2/not_stereotype//28	0	4	raise	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//28	0	5	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//28	0	6	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//28	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//28	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//28	0	9	gladly	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//28	0	10	accepted	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//28	0	11	it	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//28	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//28	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//28	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//28	0	7	manager	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//28	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//28	0	9	she	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//28	0	10	complied	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//28	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

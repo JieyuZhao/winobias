@@ -1,18 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//321); part 000
-nw/test_type1/not_stereotype//321	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//321	0	1	housekeeper	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//321	0	2	troubles	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	1	laborer	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	2	owed	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//321	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	4	physician	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	5	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	6	lot	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	7	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	8	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//321	0	9	knows	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	10	nothing	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	11	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	12	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	13	medicine	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//321	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//321	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//321	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	7	offered	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//321	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	9	make	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	11	free	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	12	suit	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//321	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

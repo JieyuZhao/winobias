@@ -1,15 +1,17 @@
 #begin document (nw/test_type1/not_stereotype//296); part 000
 nw/test_type1/not_stereotype//296	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	2	accused	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//296	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//296	0	1	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//296	0	2	accused	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//296	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	4	mover	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/test_type1/not_stereotype//296	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//296	0	7	destroyed	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	8	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	9	important	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	10	documents	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//296	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	6	some	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	7	of	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	8	his	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	9	valuable	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//296	0	10	collections	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	11	are	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	12	gone	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//296	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

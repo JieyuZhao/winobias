@@ -1,16 +1,18 @@
 #begin document (nw/test_type2/not_stereotype//366); part 000
 nw/test_type2/not_stereotype//366	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	1	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	2	received	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/not_stereotype//366	0	4	editor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/not_stereotype//366	0	5	's	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	6	order	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	7	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	8	made	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	9	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/not_stereotype//366	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	11	table	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/not_stereotype//366	0	12	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	1	editor	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	2	ordered	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	3	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	4	table	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	5	from	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	6	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	7	carpenter	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/not_stereotype//366	0	8	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/not_stereotype//366	0	9	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	10	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	11	to	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/not_stereotype//366	0	12	deliver	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	13	tomorrow	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/not_stereotype//366	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

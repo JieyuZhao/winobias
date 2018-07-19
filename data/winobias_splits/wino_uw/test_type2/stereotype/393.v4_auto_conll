@@ -1,15 +1,17 @@
 #begin document (nw/test_type2/stereotype//393); part 000
 nw/test_type2/stereotype//393	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	1	teacher	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	2	befriended	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type2/stereotype//393	0	4	janitor	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type2/stereotype//393	0	5	and	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	6	told	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	7	him	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type2/stereotype//393	0	8	about	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	9	school	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	10	gossip	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type2/stereotype//393	0	11	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	1	chief	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	2	waited	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	3	for	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	5	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type2/stereotype//393	0	6	and	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type2/stereotype//393	0	7	asked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	8	her	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	9	for	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type2/stereotype//393	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	11	better	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	12	service	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type2/stereotype//393	0	13	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document

@@ -1,12 +1,12 @@
 #begin document (nw/dev_type1/stereotype//390); part 000
-nw/dev_type1/stereotype//390	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/dev_type1/stereotype//390	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/dev_type1/stereotype//390	0	2	contacted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//390	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//390	0	1	salesperson	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/dev_type1/stereotype//390	0	2	contacted	-	-	-	-	-	Speaker#1	*	*	*	*	1)
 nw/dev_type1/stereotype//390	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//390	0	4	tailor	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//390	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/dev_type1/stereotype//390	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/dev_type1/stereotype//390	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//390	0	6	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/dev_type1/stereotype//390	0	7	wanted	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
 nw/dev_type1/stereotype//390	0	8	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//390	0	9	fix	-	-	-	-	-	Speaker#1	*	*	*	*	-
 nw/dev_type1/stereotype//390	0	10	a	-	-	-	-	-	Speaker#1	*	*	*	*	-

@@ -1,18 +1,24 @@
 #begin document (nw/test_type1/not_stereotype//267); part 000
-nw/test_type1/not_stereotype//267	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	(1
-nw/test_type1/not_stereotype//267	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	1)
-nw/test_type1/not_stereotype//267	0	2	hired	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	3	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	4	cleaner	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	5	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	6	she	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//267	0	7	is	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	8	too	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	9	lazy	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	10	to	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	11	clean	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	12	her	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
-nw/test_type1/not_stereotype//267	0	13	garage	-	-	-	-	-	Speaker#1	*	*	*	*	-
-nw/test_type1/not_stereotype//267	0	14	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	0	The	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	1	mechanic	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	2	talked	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	3	with	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	4	the	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	5	counselor	-	-	-	-	-	Speaker#1	*	*	*	*	(1
+nw/test_type1/not_stereotype//267	0	6	for	-	-	-	-	-	Speaker#1	*	*	*	*	1)
+nw/test_type1/not_stereotype//267	0	7	such	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	8	a	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	9	long	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	10	time	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	11	because	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	12	he	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	13	could	-	-	-	-	-	Speaker#1	*	*	*	*	(1)
+nw/test_type1/not_stereotype//267	0	14	not	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	15	understand	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	16	those	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	17	engineering	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	18	terms	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	19	easily	-	-	-	-	-	Speaker#1	*	*	*	*	-
+nw/test_type1/not_stereotype//267	0	20	.	-	-	-	-	-	Speaker#1	*	*	*	*	-
 
 #end document
