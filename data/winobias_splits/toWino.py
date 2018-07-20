@@ -2,10 +2,12 @@ import sys
 import os
 berkeley_file = sys.argv[1]
 uw_file = sys.argv[2]
-
+"""based on the berekeley conll file, translate into uw-conll format"""
 b_files = os.listdir(berkeley_file)
 
 for f in b_files:
+    if os.path.isdir(berkeley_file + f):
+        continue
     lines = open(berkeley_file + f).readlines()
     doc = []
     for line_id in range(len(lines)) :

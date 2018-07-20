@@ -48,7 +48,7 @@ python2 toWino.py wino_berkeley/dev_type1/not_stereotype/ wino_uw/dev_type1/not_
 
 
 
-
+####cd wino_uw
 cat dev_type1/stereotype/* > conll_format/dev_type1_pro_stereotype.v4_auto_conll
 cat dev_type1/not_stereotype/* > conll_format/dev_type1_anti_stereotype.v4_auto_conll
 cat dev_type2/stereotype/* > conll_format/dev_type2_pro_stereotype.v4_auto_conll

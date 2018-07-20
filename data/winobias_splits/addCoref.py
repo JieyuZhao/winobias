@@ -1,5 +1,6 @@
 import nltk
 import sys
+import re
 
 '''is used to add the coref label to the dataset'''
 entityIdx = {'[':'1',']':'1','(':'2',')':'2','{':'3','}':'3'}
@@ -8,6 +9,7 @@ lines = open(sys.argv[1]).readlines()
 sents = []
 annotations = []
 for line in lines:
+    line  = re.sub('^\s*[0-9]+\s*', '', line)
     tokens = nltk.word_tokenize(line)
     print(tokens)
     annotation = []
