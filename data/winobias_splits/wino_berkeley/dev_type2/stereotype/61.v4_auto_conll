@@ -6,7 +6,7 @@
 ../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	4	sweater	NN	*)	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	5	for	IN	(PP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	6	the	DT	(NP*	-	-	-	Speaker#1	*	*	*	*	(1
-../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	7	tailor	NN	*))))	-	-	-	Speaker#1	*	*	*	*	1)
+../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	7	developer	NN	*))))	-	-	-	Speaker#1	*	*	*	*	1)
 ../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	8	and	CC	*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	9	charged	VBD	(VP*	-	-	-	Speaker#1	*	*	*	*	-
 ../data/winobias_splits/wino_sentences/dev_type2/stereotype//61	0	10	him	PRP	(NP*)	-	-	-	Speaker#1	*	*	*	*	(1)
