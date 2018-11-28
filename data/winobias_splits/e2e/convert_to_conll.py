@@ -1,14 +1,15 @@
 """
 convert the uw predictions to the conll format.
-python conver_to_conll.py input_path predictions_path  output_path
+python conver_to_conll.py input_path predictions_path  output_path model filename_tag
 """
 import json
 import sys
+import io
 
-for i in range(395):
-    conll_test_key_filename = sys.argv[1] + str(i) +'.v4_auto_conll'
-    uw_system_out_filename = sys.argv[2] + str(i) + '.jsonlines'
-    out_file = sys.argv[3] + str(i) + '-uw_coref_system_output.txt'
+for i in range(1):
+    conll_test_key_filename = sys.argv[1]
+    uw_system_out_filename = sys.argv[2]
+    out_file = sys.argv[3] + sys.argv[4]+'-' + sys.argv[5]
 
     doc_dict = {}
     for line in open(uw_system_out_filename, "r"):
@@ -21,7 +22,7 @@ for i in range(395):
 
     print(len(doc_dict))
 
-    fw = open(out_file, 'w', encoding="utf8")
+    fw = open(out_file, 'w')
 
     doc_key = None
     part_id = None
@@ -30,7 +31,7 @@ for i in range(395):
     word_no = 0
     cluster_id = 0
 
-    for line in open(conll_test_key_filename, 'r', encoding="utf8"):
+    for line in open(conll_test_key_filename, 'r'):
         line = line.strip()
         if '#begin document' in line:
             doc_key = line[line.find("(")+1:line.find(")")]

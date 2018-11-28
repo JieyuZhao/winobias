@@ -1,6 +1,6 @@
 """
 randomly (p=0.5) flip each between stereotype and non_stereotype. Calculate |f1_s - f1_n|
-sys.argv[1]: pred_stereotype_path
+sys.argv[1]: pred_stereotype_path  #conll_format
 sys.argv[2]: pred_not_stereotype_path
 sys.argv[3]: gold_stereotype_path
 sys.argv[4]: gold_not_stereotype_path
@@ -20,26 +20,26 @@ def cmd_operation(i):
         not_stereotype_pred = []
         stereotype_gold = []
         not_stereotype_gold = []
-        for j in range(395):
+        for j in range(1, 397):
             ra = random.random()
             if ra > 0.5 : # flip sterotype and not_stereotype file
-                stereotype_pred.append(sys.argv[2] + str(j) + '-uw_coref_system_output.txt')
-                not_stereotype_pred.append(sys.argv[1] + str(j) + '-uw_coref_system_output.txt')
-                stereotype_gold.append(sys.argv[4] + str(j) + '.v4_auto_conll')
-                not_stereotype_gold.append(sys.argv[3] + str(j) + '.v4_auto_conll')
+                stereotype_pred.append(sys.argv[2] + 'F' + str(j) )
+                not_stereotype_pred.append(sys.argv[1] + 'F' + str(j) )
+                stereotype_gold.append(sys.argv[4] + 'F' + str(j) + '.v4_auto_conll')
+                not_stereotype_gold.append(sys.argv[3] + 'F' + str(j) + '.v4_auto_conll')
 
             else:
-                stereotype_pred.append(sys.argv[1] + str(j) + '-uw_coref_system_output.txt')
-                not_stereotype_pred.append(sys.argv[2] + str(j) + '-uw_coref_system_output.txt')
-                stereotype_gold.append(sys.argv[3] + str(j) + '.v4_auto_conll')
-                not_stereotype_gold.append(sys.argv[4] + str(j) + '.v4_auto_conll')
+                stereotype_pred.append(sys.argv[1] + 'F' + str(j))
+                not_stereotype_pred.append(sys.argv[2] +'F' + str(j))
+                stereotype_gold.append(sys.argv[3] + 'F' + str(j) + '.v4_auto_conll')
+                not_stereotype_gold.append(sys.argv[4] + 'F' + str(j) + '.v4_auto_conll')
 
 
 
-        assert len(stereotype_gold) == 395
-        assert len(stereotype_pred) == 395
-        assert len(not_stereotype_gold) == 395
-        assert len(not_stereotype_pred) == 395
+        assert len(stereotype_gold) == 396
+        assert len(stereotype_pred) == 396
+        assert len(not_stereotype_gold) == 396
+        assert len(not_stereotype_pred) == 396
 
         pred_s_cmd = ' '.join(stereotype_pred)
         pred_nots_cmd = ' '.join(not_stereotype_pred)

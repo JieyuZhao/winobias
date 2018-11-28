@@ -1,4 +1,4 @@
 #!/bin/bash
 
-python calculate_f1_multiprocess.py data/wino_test/$1/test_type1/ data/wino_scores/$1_test_type1_stereotype data/wino_scores/$1_test_type1_not_stereotype
-python calculate_f1_multiprocess.py data/wino_test/$1/test_type2/ data/wino_scores/$1_test_type2_stereotype data/wino_scores/$1_test_type2_not_stereotype
+python ../winobias_split/e2e/calculate_f1_multiprocess.py data/sigtest/flip_concat/$1/dev_T1/ data/sigtest/wino_scores/$1_dev_T1_pro data/sigtest/wino_scores/$1_dev_T1_anti
+python ../winobias_split/e2e/calculate_f1_multiprocess.py data/sigtest/flip_concat/$1/dev_T2/ data/sigtest/wino_scores/$1_dev_T2_pro data/sigtest/wino_scores/$1_dev_T2_anti
