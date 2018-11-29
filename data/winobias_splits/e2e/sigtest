@@ -11,15 +11,15 @@ union_anon_hardglove_avgfx_elmo
 union_anon_hardglove
 
 #split the predictions; change the corresponding model name
-awk '/#begin document /{x="data/sigtest/flip_concat/pca/dev_T2/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T2_anti
-awk '/#begin document /{x="data/sigtest/flip_concat/pca/dev_T1/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T1_anti
-awk '/#begin document /{x="data/sigtest/flip_concat/pca/dev_T2/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T2_pro
-awk '/#begin document /{x="data/sigtest/flip_concat/pca/dev_T1/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T1_pro
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T2/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T2_anti
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T1/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T1_anti
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T2/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T2_pro
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T1/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T1_pro
 
-awk '/#begin document /{x="data/sigtest/flip_concat/avgfx/dev_T2/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T2_anti
-awk '/#begin document /{x="data/sigtest/flip_concat/avgfx/dev_T1/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T1_anti
-awk '/#begin document /{x="data/sigtest/flip_concat/avgfx/dev_T2/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T2_pro
-awk '/#begin document /{x="data/sigtest/flip_concat/avgfx/dev_T1/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T1_pro
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T2/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T2_anti
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T1/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T1_anti
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T2/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T2_pro
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T1/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T1_pro
 
 
 #split the ground truth
