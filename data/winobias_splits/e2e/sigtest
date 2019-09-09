@@ -1,0 +1,45 @@
+#change the config file about the ELMo to make predictions
+python predict.py pca_union_hardglove_elmo_anon data/corefbias/dev_type1_anti_stereotype.english.jsonlines data/sigtest/wino_predictions/pca_union_hardglove_elmo_anon/dev_T1/anti.pred.jsonlines
+
+#convert pred.jsonlines to conll format
+python ../winobias_split/e2e/convert_to_conll.py data/corefbias/dev_type1_pro_stereotype.v4_auto_conll data/sigtest/wino_predictions/pca_union_hardglove_elmo_anon/dev_T1/pro.pred.jsonlines data/sigtest/conll_wino_pred/   pca_union_hardglove_elmo_anon dev_T1_pro
+
+#four model names
+neutralized_union_hardglove_elmo_anon
+pca_union_hardglove_elmo_anon
+union_anon_hardglove_avgfx_elmo
+union_anon_hardglove
+
+#split the predictions; change the corresponding model name
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T2/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T2_anti
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T1/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T1_anti
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T2/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T2_pro
+awk '/#begin document /{x="data/sigtest/split_pred/pca/dev_T1/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/pca_union_hardglove_elmo_anon-dev_T1_pro
+
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T2/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T2_anti
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T1/anti/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T1_anti
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T2/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T2_pro
+awk '/#begin document /{x="data/sigtest/split_pred/avgfx/dev_T1/pro/F"++i;}{print > x;}' data/sigtest/conll_wino_pred/union_anon_hardglove_avgfx_elmo-dev_T1_pro
+
+
+#split the ground truth
+awk '/#begin document /{x="data/sigtest/gold_split/dev_T2/pro/F"++i".v4_auto_conll";}{print > x;}' data/corefbias/dev_type2_pro_stereotype.v4_auto_conll
+
+#flip_concat
+sh ../winobias_split/e2e/flip_concat.sh pca 
+
+#calculate F1
+sh ../winobias_split/e2e/calculate_f1.sh pca
+
+#analysis
+paste pca_dev_T2_pro pca_dev_T2_anti | awk '{print ($1-$2)^2}' | awk '$1>0.1^2 {count++} END {print (count+1)/(1000+1)}'
+- paste pca_dev_T2_pro pca_dev_T2_anti | awk '{print ($1-$2)*($1-$2)}' > sub_pca_dev_T2
+
+paste pca_dev_T2_pro pca_dev_T2_anti | awk '{print ($1-$2)^2}' | awk '$1>0.1^2 {count++} END {print (count+1)/(1000+1)}'
+paste pca_dev_T1_pro pca_dev_T1_anti | awk '{print ($1-$2)^2}' | awk '$1>1^2 {count++} END {print (count+1)/(1000+1)}'
+
+paste neutralized_dev_T2_pro neutralized_dev_T2_anti | awk '{print ($1-$2)^2}' | awk '$1>0.6^2 {count++} END {print (count+1)/(1000+1)}'
+paste neutralized_dev_T1_pro neutralized_dev_T1_anti | awk '{print ($1-$2)^2}' | awk '$1>2.1^2 {count++} END {print (count+1)/(1000+1)}'
+
+paste avgfx_dev_T2_pro  avgfx_dev_T2_anti | awk '{print ($1-$2)^2}' | awk '$1>1.1^2 {count++} END {print (count+1)/(1000+1)}'
+paste avgfx_dev_T1_pro  avgfx_dev_T1_anti | awk '{print ($1-$2)^2}' | awk '$1>1.2^2 {count++} END {print (count+1)/(1000+1)}'

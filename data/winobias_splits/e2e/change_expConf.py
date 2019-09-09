@@ -8,14 +8,16 @@ import fileinput
 from tqdm import tqdm
 
 
-for f in tqdm(range(395)):
+for f in tqdm(range(3)):
     name = str(f)
     count = 0
-    for line in fileinput.input("experiments.conf", inplace=True):
-        if count == 145:
-            print('  eval_path = ' + sys.argv[1] + name + '.jsonlines')
-            count += 1
-            continue
-        print(line.strip('\n'))
-        count += 1
-    os.system('python2 decoder.py ' +sys.argv[3] + ' '+ sys.argv[2] + name + '.jsonlines')
+    inpu = sys.argv[1] + name + '.jsonlines'
+    output = sys.argv[2] + name + '.jsonlines'
+    # for line in fileinput.input("experiments.conf", inplace=True):
+    #     if count == 681:
+    #         print('  eval_path = ' + sys.argv[1] + name + '.jsonlines')
+    #         count += 1
+    #         continue
+    #     print(line.strip('\n'))
+    #     count += 1
+    os.system('python predict.py ' +sys.argv[3] + ' '+ inpu + ' ' + output)
